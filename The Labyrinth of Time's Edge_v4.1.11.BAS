@@ -331,6 +331,38 @@ cmd$ = LTrim$(RTrim$(UCase$(cmd$)))
 If cmd$ = "SAVE" Then
     Open "SAVEGAME.DAT" For Output As #1
     Print #1, r ' save current room number
+    ' --- Calculate and save remaining time ---
+    Dim timeRemainingWhenSaved As Double
+    timeRemainingWhenSaved = DOOM - Timer(0.1) ' Calculate time left NOW
+    If timeRemainingWhenSaved < 0 Then timeRemainingWhenSaved = 0 ' Prevent saving negative time
+    Print #1, timeRemainingWhenSaved ' Save the DURATION left
+    ' --------------------------------------
+    Print #1, gotlantern
+    Print #1, gotsword
+    Print #1, gotshard
+    Print #1, gotrelic
+    Print #1, gotcrown
+    Print #1, gotoryn
+    Print #1, gottear
+    Print #1, gotheart
+    Print #1, gotchalice
+    Print #1, gotmirror
+    Print #1, gotshield
+    Print #1, gotgauntlet
+    Print #1, gotamuletofwhispers
+    Print #1, gotamuletofshadows
+    Print #1, gotamuletofthecelestialkey
+    Print #1, gotamuletofwildsong
+    Print #1, gotamuletoftheshiftingsands
+    Print #1, gottheechoesoflostages
+    Print #1, gottheserpentscanticle
+    Print #1, gotthearchitectsoath
+    Print #1, gotthefleshandshadow
+    Print #1, gotthelabyrinthsbreath
+    Print #1, gotthemoonthatwatches
+    Print #1, gotthegildedprison
+    Print #1, gottheunwrittentestament
+    Print #1, gotamuletofwhispers
     Close #1
     Print "Game saved."
     Do: Loop Until InKey$ <> "" ' pause for keypress
@@ -343,6 +375,37 @@ If cmd$ = "LOAD" Then
     Open "SAVEGAME.DAT" For Input As #1
     On Error GoTo 0
     Input #1, r ' restore room number
+    ' --- Load duration and calculate new DOOM ---
+    Dim loadedDuration As Double
+    Input #1, loadedDuration ' Read the saved DURATION
+    DOOM = Timer(0.1) + loadedDuration ' Calculate NEW absolute end time
+    ' ------------------------------------------
+    Input #1, gotlantern
+    Input #1, gotsword
+    Input #1, gotshard
+    Input #1, gotrelic
+    Input #1, gotcrown
+    Input #1, gotoryn
+    Input #1, gottear
+    Input #1, gotheart
+    Input #1, gotchalice
+    Input #1, gotmirror
+    Input #1, gotshield
+    Input #1, gotgauntlet
+    Input #1, gotamuletofwhispers
+    Input #1, gotamuletofshadows
+    Input #1, gotamuletofthecelestialkey
+    Input #1, gotamuletofwildsong
+    Input #1, gotamuletoftheshiftingsands
+    Input #1, gottheechoesoflostages
+    Input #1, gottheserpentscanticle
+    Input #1, gotthearchitectsoath
+    Input #1, gotthefleshandshadow
+    Input #1, gotthelabyrinthsbreath
+    Input #1, gotthemoonthatwatches
+    Input #1, gotthegildedprison
+    Input #1, gottheunwrittentestament
+    Input #1, gotamuletofwhispers
     Close #1
     Print "Game loaded."
     Do: Loop Until InKey$ <> ""
