@@ -1,0 +1,5608 @@
+801
+--COMMAND START--
+EXAMINE LANTERN
+-1
+gotlantern
+Lantern
+ The lantern is a sturdy, weather-beaten device that has clearly seen better days. Its metal frame is scarred with scratches and dents, evidence of countless journeys through dark places. The once-bright brass has dulled to a murky brown, and the glass panels, though mostly intact, are chipped and smudged with soot. A faint rattle escapes from within as you shift it in your grip, hinting at the loose components that still somehow cling together.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SWORD
+-1
+gotsword
+Sword
+ The sword is a sturdy, well-worn blade with a history etched into every scratch and nick along its length. The steel has lost its original sheen, now dulled to a gray that seems to absorb the flickering lantern light rather than reflect it. The edge, though far from pristine, is still sharp enough to cut through the vines and overgrowth that choke the temple's forgotten pathways. Patches of faint rust mark the blade near the hilt, hints of past battles and harsh conditions endured. 
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHARD
+-1
+gotshard
+The Shard Of Eternal Light
+ A crystal imbued with the purest light of creation, capable of piercing through the darkness of Malthera's magic.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RELIC
+-1
+gotrelic
+The Emberheart Relic
+ A flaming jewel from the dragon's own chest, granting the wielder the power of life and death for a single moment.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CROWN
+-1
+gotcrown
+The Veilbreaker Crown
+ An ancient circlet forged from starlight, allowing the wearer to enter the witch's hidden realm and shatter her protective barriers.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ORYN
+-1
+gotoryn
+The Wyrmblade Of Oryn
+ A legendary sword crafted from one of the dragon's scales, capable of severing the witch's connection to the dark forces.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TEAR
+-1
+gottear
+The Ashen Tear
+ A single tear shed by the dragon in sorrow, crystallized into a gem that holds the power to purify Malthera's cursed soul.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HEART
+-1
+gotheart
+The Crystal Heart
+ A glowing heart-shaped crystal encased in ice. This treasure radiates warmth despite its surroundings and is said to be the core of an ancient winter spirit.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CHALICE
+-1
+gotchalice
+The Ember Chalice
+ A goblet forged from molten lava, still warm to the touch. The chalice brims with liquid fire that never spills.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MIRROR
+-1
+gotmirror
+The Obsidian Mirror
+ A dark, polished mirror framed with twisted silver. Staring into it reveals hidden truths-and sometimes, visions of the past.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHIELD
+-1
+gotshield
+The Shield Of Eternity
+ A radiant shield forged by celestial smiths, its surface shimmers with images of past, present, and future battles. Indestructible and imbued with protective magic, it is said to repel even the strongest of curses.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GAUNTLET
+-1
+gotgauntlet
+The Gauntlet Of Dominion
+ The Gauntlet of Dominion is a massive, intricately crafted glove forged from blackened steel and encrusted with glowing red gemstones that pulse like a heartbeat.
+--COMMAND END--
+--COMMAND START--
+EXAMINE AMULET OF WHISPERS
+-1
+gotamuletofwhispers
+Amulet of Whispers
+ A silver pendant shaped like an ear, with faintly glowing runes carved along its edges.
+--COMMAND END--
+--COMMAND START--
+EXAMINE AMULET OF SHADOWS
+-1
+gotamuletofshadows
+Amulet of Shadow's
+ A black obsidian amulet that seems to absorb light around it, making it faintly cold to the touch.
+--COMMAND END--
+--COMMAND START--
+EXAMINE AMULET OF THE CELESTIAL KEY
+-1
+gotamuletofthecelestialkey
+Amulet of the Celestial Key
+ A golden amulet shaped like a star, with a small crystal in the center that glows when near hidden doors or magical locks.
+--COMMAND END--
+--COMMAND START--
+EXAMINE AMULET OF WILD SONG
+-1
+gotamuletofwildsong
+Amulet of Wild Song
+ A wooden amulet carved into the shape of a bird in flight, emitting faint, melodic chirps when held.
+--COMMAND END--
+--COMMAND START--
+EXAMINE AMULET OF THE SHIFTING SANDS
+-1
+gotamuletoftheshiftingsands
+Amulet of the Shifting Sands
+ A glass vial on a chain, containing a swirling miniature sandstorm that changes color with time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK ONE
+-1
+gottheechoesoflostages
+Book: The Echoes Of Lost Ages
+ A fragile tome detailing myths of civilizations that vanished overnight paralleling the temple's fate with unsettling precision.
+--COMMAND END--
+--COMMAND START--
+READ THE ECHOES OF LOST AGES
+-1
+gottheechoesoflostages
+Book: The Echoes Of Lost Ages
+ The masses of the world saw only what their greed allowed, for avarice is ever mankind's downfall. Let it be known that on this day, the 24th of Giloh, 2108, the people shall forever be ushered into a realm of true spiritual light.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK TWO
+-1
+gottheserpentscanticle
+Book: The Serpent's Canticle
+ Bound in cracked leather, this book contains hymns and warnings of a forgotten god-one whose name was erased from time.
+--COMMAND END--
+--COMMAND START--
+READ THE SERPENTS CANTICLE
+-1
+gottheserpentscanticle
+Book: The Serpent's Canticle
+ The guidance of life flows from the wisdom of our god, for she will shield us from the grasp of the dead. As we wander this world, we must only speak the sacred words when asked.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK THREE
+-1
+gotthearchitectsoath
+Book: The Architect's Oath
+ A journal filled with blueprints from the temple's builder, hinting at hidden chambers and passageways long sealed by time.
+--COMMAND END--
+--COMMAND START--
+READ THE ARCHITECTS OATH
+-1
+gotthearchitectsoath
+Book: The Architect's Oath
+ The aged pages hold intricate sketches of corridors and secrets woven into the walls.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK FOUR
+-1
+gotthefleshandshadow
+Book: Of Flesh and Shadow
+ A disturbing study of beings that exist between moments, slipping through cracks in time, waiting to return.
+--COMMAND END--
+--COMMAND START--
+READ OF FLESH AND SHADOW
+-1
+gotthefleshandshadow
+Book: Of Flesh And Shadow
+ The fallen order's priests have uncovered a strange ability-to drift between timelines, becoming lost within the sacred gaps of reality itself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK FIVE
+-1
+gotthelabyrinthsbreath
+Book: The Labyrinth's Breath
+ A guide written by a long-dead explorer who mapped the temple's shifting corridors, filled with notes on traps, illusions, and unseen paths.
+--COMMAND END--
+--COMMAND START--
+READ THE LABYRINTHS BREATH
+-1
+gotthelabyrinthsbreath
+Book: The Labyrinth's Breath
+ The text is written in a strange language. You can make out only a few words.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK SIX
+-1
+gotthemoonthatwatches
+Book: The Moon That Watches
+ A collection of dream records from past temple visitors, some written in handwriting eerily similar to your own.
+--COMMAND END--
+--COMMAND START--
+READ THE MOON THAT WATCHES
+-1
+gotthemoonthatwatches
+Book: The Moon That Watches
+ 13th of Filhmeh, 2106. The entrance to the realm of the gods is prophesied to be created by a child. We have found the child and sent him to the temple in the hopes of making contact...That is where the last entry ends.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK SEVEN
+-1
+gotthegildedprison
+Book: The Gilded Prison
+ A philosophical treatise on time itself-questioning whether it is a river, a cage, or a living thing that feeds on memory.
+--COMMAND END--
+--COMMAND START--
+READ THE MOON THAT WATCHES
+-1
+gotthegildedprison
+Book: The Gilded Prison
+ The pages seem to be blank.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK EIGHT
+-1
+gottheunwrittentestament
+Book: The Unwritten Testament
+ A book with empty pages, save for a single message.
+--COMMAND END--
+--COMMAND START--
+READ THE MOON THAT WATCHES
+-1
+gottheunwrittentestament
+Book: The Unwritten Testament
+ You will finish what I could not. Upon touching it, you feel as though you've written in it before.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE STATUE
+13
+noitem
+Stone Statue
+ Before you stands an imposing eight-foot stone statue. With a sword gripped in one hand and a lantern held aloft in the other, this great hero once saved the village in a time long past.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CART
+18
+noitem
+Cart
+ An old, decrepit pushcart, now used to carry the remnants of someone's life.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RUBBLE
+19
+noitem
+Rubble
+ A scattered pile of stones and other debris rests at your feet, remnants of a structure long since forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE BOWLS
+27
+noitem
+Stone Bowls
+ Large, hand-carved bowls hold a mixture of fruits and vegetables-an offering to the gods.
+--COMMAND END--
+--COMMAND START--
+TAKE OFFERINGS
+27
+noitem
+Stone Bowls
+ No adventurer with any respect for the unknown would dare take an offering meant for the divine.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LUMIRATH CAVE
+28
+noitem
+Lumirath Cave
+ A mystical cavern carved into the Earth by the hands of the divine, its walls whispering secrets of creation.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CEMETERY GATE
+32
+noitem
+Cemetery Gate
+ This rusted gate stands as a somber reminder of what remains when all life has faded from the village.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BRIDGE
+40
+noitem
+Bridge
+ An elegant bridge, crafted by master builders of centuries past, spans the divide.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HIDDEN DOOR
+58
+noitem
+Hidden Door
+ Crafted from wood and stone, the hidden door reveals itself to you, a testament to masterful craftsmanship.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GOLDEN STATUE
+60
+noitem
+Golden Statue
+ Towering above you, this statue, cast in solid gold, stands as a gleaming tribute to the glory of ages past.
+--COMMAND END--
+--COMMAND START--
+CONVERSATION
+66
+noitem
+Conversation
+ A hushed conversation unfolds about a plan to escape. Fear grips them, for they dread joining the others lost within the labyrinth.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MOTHRAT NEST
+71
+noitem
+Mothrat Nest
+ An alien-like nest radiates intense heat, making you feel as though you're trapped in an oven.
+--COMMAND END--
+--COMMAND START--
+READ MESSAGE
+72
+noitem
+Message
+ The message reads as a sharp insult to the King's family-a brazen act of defiance.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SILVER BOWL
+88
+noitem
+Silver Bowl
+ A bowl of exquisite craftsmanship, made from the finest silver by a master silversmith.
+--COMMAND END--
+--COMMAND START--
+TEMPLE OF SOLACE
+90
+noitem
+Temple Of Solace
+ A sanctuary hewn from stone by miners, this temple is said to lead to the doorway of salvation.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+92
+noitem
+Statue
+ The statue of Saint Lubok watches over travelers within the realm of light, offering solace to the weary.
+--COMMAND END--
+--COMMAND START--
+PRAY
+92
+noitem
+Praying
+ You utter a quick prayer in a nearly forgotten tongue, its words resonating faintly in the silence.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BED
+93
+noitem
+Bed
+ A simple bed made of straw and stone offers a stark but functional place to rest.
+--COMMAND END--
+--COMMAND START--
+SLEEP IN BED
+93
+noitem
+Sleeping
+ You drift into a deep slumber. The burdens of the world fade, and for the first time in ages, you sleep in peace.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PORTAITS
+94
+noitem
+Portraits
+ Moments captured in history, these portraits are vivid reminders of a world long gone, immortalized on canvas.
+--COMMAND END--
+--COMMAND START--
+EXAMINE URNS
+97
+noitem
+Urns
+ These urns hold the remains of high-ranking officials from the King's Guard, their legacies reduced to ashes.
+--COMMAND END--
+--COMMAND START--
+OPEN URNS
+97
+noitem
+Urns
+ You find nothing but ashes, a quiet reminder of the impermanence of power.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KITCHEN
+99
+noitem
+Portraits
+ A modest kitchen where meals are prepared, its simplicity speaks of humble living.
+--COMMAND END--
+--COMMAND START--
+EXAMINE INGREDIENTS
+99
+noitem
+Ingredients
+ A collection of freshly picked herbs and vegetables lies neatly arranged.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STEW
+99
+noitem
+Stew
+ A stew simmers over the fire, its savory aroma stirring thoughts of home.
+--COMMAND END--
+--COMMAND START--
+EAT STEW
+99
+noitem
+Stew
+ You take up a wooden spoon, blow gently on the steaming broth, and savor the flavorful mix.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ANCIENT SCROLLS
+101
+noitem
+Ancient Scrolls
+ Old scrolls filled with the sacred knowledge of ancient worshippers.
+--COMMAND END--
+--COMMAND START--
+READ ANCIENT SCROLLS
+101
+noitem
+Ancient Scrolls
+ The text is written in an ancient language, indecipherable without a glyph reader.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ANCIENT TEXTS
+103
+noitem
+Ancient Texts
+ Timeworn books bound in cracked leather, their pages yellowed with age.
+--COMMAND END--
+--COMMAND START--
+READ ANCIENT TEXTS
+103
+noitem
+Ancient Texts
+ The symbols are incomprehensible without the aid of a glyph reader.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SYMBOLS
+103
+noitem
+Symbols
+ Strange symbols adorn the walls, telling a story lost to time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CELLS
+106
+noitem
+Cells
+ Empty prison cells, their stone walls echoing the absence of life.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CRATES
+109
+noitem
+Crates
+ Dust-covered wooden crates, draped in cobwebs, sit neglected in the corner.
+--COMMAND END--
+--COMMAND START--
+OPEN CRATE
+109
+noitem
+Crates
+ The crates are disappointingly empty, their contents long gone.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOKS
+111
+noitem
+Books
+ A collection of ancient books, written in a time when the world was different, containing the secrets of the ancients.
+--COMMAND END--
+--COMMAND START--
+READ BOOKS
+111
+noitem
+Books
+ The pages describe a doorway to the outer realm, shrouded in mystery and wonder.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SCROLLS
+111
+noitem
+Scrolls
+ Fragile scrolls, aged and brittle, crumble at the slightest touch.
+--COMMAND END--
+--COMMAND START--
+TOUCH SCROLLS
+111
+noitem
+Scrolls
+ As your fingers graze the parchment, it disintegrates into dust, lost forever.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BANNERS
+112
+noitem
+Banners
+ Faded and weathered banners bear the crest of the King's family, their glory now a distant memory.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GRAVE STONES
+118
+noitem
+Grave Stones
+ Many hand-carved stones stand solemnly, marking the final resting places of the departed.
+--COMMAND END--
+--COMMAND START--
+READ GRAVE STONES
+118
+noitem
+Grave Stones
+ The inscriptions are written in a language unfamiliar to you, their secrets lost to time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HEAD STONES
+122
+noitem
+Head Stones
+ Each headstone is uniquely designed, shaped by the wishes of the grieving families who left their mark.
+--COMMAND END--
+--COMMAND START--
+READ HEAD STONES
+122
+noitem
+Head Stones
+ The names and epitaphs are etched in a language you cannot decipher.
+--COMMAND END--
+--COMMAND START--
+EXAMINE APPLE TREE
+126
+noitem
+Apple Tree
+ The tree stands in full bloom, its vibrant blossoms a poignant reminder of life's enduring beauty amidst mortality.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FUNERAL SERVICE
+128
+noitem
+Funeral Service
+ A small group gathers somberly, witnessing the descent of a casket into the earth.
+--COMMAND END--
+--COMMAND START--
+OBSERVE
+128
+noitem
+Observing
+ You watch as mourners bow their heads in prayer, offering farewells to their loved one.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WILLOW TREE
+132
+noitem
+Willow Tree
+ This ancient willow stretches skyward, nourished by the memories and remains of the departed beneath its roots.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BRIDGE
+138
+noitem
+Bridge
+ A sturdy wooden bridge spans the area, a testament to the craftsmanship and resilience of the living.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OPEN GRAVE
+142
+noitem
+Open Grave
+ An ominous, empty grave yawns before you, its purpose yet to be fulfilled.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GRAVE MARKER
+143
+noitem
+Grave Marker
+ An old granite slab, weathered by time, bears no readable name-the identity of the deceased now forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OWL
+143
+noitem
+Owl
+ A striking bird resembling a small barn owl perches nearby, its mystical eyes gleaming with untold wisdom.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BRIDGE
+138
+noitem
+Bridge
+ A sturdy wooden bridge spans the area, a testament to the craftsmanship and resilience of the living.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OPEN GRAVE
+142
+noitem
+Open Grave
+ An ominous, empty grave yawns before you, its purpose yet to be fulfilled.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GRAVE MARKER
+143
+noitem
+Grave Marker
+ An old granite slab, weathered by time, bears no readable name-the identity of the deceased now forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OWL
+143
+noitem
+Owl
+ A striking bird resembling a small barn owl perches nearby, its mystical eyes gleaming with untold wisdom.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BROKEN SHOVEL
+145
+noitem
+Broken Shovel
+ The shattered remains of a wooden-handled shovel lie discarded, snapped clean at the center.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FLOWER
+149
+noitem
+Flower
+ A single red flower rests delicately before you, its waxy petals almost too perfect to be real.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TOY
+149
+noitem
+Toy
+ An old wooden horse, carved from a single block and painted with rudimentary materials, stands as a relic of simpler times.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ORBS OF LIGHT
+154
+noitem
+Orbs of Light
+ Ephemeral orbs of light flicker and drift, as though glimpses into a forgotten era.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FIRE
+158
+noitem
+Fire
+ A small fire crackles softly, its embers glowing from what seems like an eternal burn.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RABBIT
+158
+noitem
+Rabbit
+ Above the fire hangs a skewer of rabbit meat, slow-cooking over the embers.
+--COMMAND END--
+--COMMAND START--
+EAT RABBIT
+158
+noitem
+Rabbit Meat
+ It's unwise to take what clearly belongs to someone else.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SMALL BONES
+159
+noitem
+Rabbit Bones
+ A scattering of small bones lies abandoned, the remnants of a meal once enjoyed.
+--COMMAND END--
+--COMMAND START--
+EXAMINE JEWELRY
+164
+noitem
+Jewelry
+ A collection of tarnished necklaces and bracelets, once worn by the departed, now rests here.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DISTURBED GRAVES
+165
+noitem
+Disturbed Graves
+ The soil around these graves has been recently churned, with scattered piles hinting at foul deeds.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GRAVE
+170
+noitem
+Grave
+ This grave shows clear signs of desecration, its soil disturbed by hands with dark intent.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TABLES
+174
+noitem
+Tables
+ Gruesome remains lie scattered across wooden tables, their blood-stained surfaces bearing witness to grisly deeds.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ALTAR
+175
+noitem
+Altar
+ A weathered stone altar, its surface etched with the markings of a forgotten people, stands solemn and foreboding.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PORTRAITS
+177
+noitem
+Portraits
+ The walls are adorned with hand-painted portraits, each depicting notable locations from across the kingdom. One showcases the shadowy depths of the High Point Forest, where sunlight never touches the ground. Another captures the chilling expanse of the Lake of the Hive, its icy waters shrouded in mystery.
+--COMMAND END--
+--COMMAND START--
+HIGH POINT FOREST
+177
+noitem
+High Point Forest
+ A place of eternal twilight, the High Point Forest is so densely packed with ancient trees that the sun's rays never penetrate. Shadows twist and turn in this dark, foreboding woodland, cloaking its secrets in perpetual darkness.
+--COMMAND END--
+--COMMAND START--
+LAKE OF THE HIVE
+177
+noitem
+Lake Of The Hive
+ This expansive lake is so frigid that its waters seem perpetually on the brink of freezing. Local legends speak of the Merkahns, enigmatic beings who are said to dwell near its icy shores, their secrets hidden in the depths.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CREST
+184
+noitem
+Crest
+ Prominently displayed on the wall, the royal family's crest emanates a sense of authority and tradition. A shield bearing intricate heraldry is crossed by spears, their shafts glowing with an amber-like hue that seems almost alive in the flickering light.
+--COMMAND END--
+--COMMAND START--
+EXAMINE THRONE
+186
+noitem
+Throne
+ Standing an imposing twelve feet tall, the throne is a testament to the craftsmanship of generations past. Carved from the finest wood and adorned with gold accents, it is upholstered in luxurious red fabric, still radiant with the dignity of its storied history.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HUSHED TONES
+188
+noitem
+Hushed Tones
+ The chamber hums with quiet, urgent whispers. Small groups converse in low tones, casting wary glances toward the King's loyal supporters. Each word is measured, every sentence weighed against the risk of discovery.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PAINTINGS
+195
+noitem
+Paintings
+ Oil-painted portraits of long-deceased royals hang solemnly on the walls, their eyes seemingly following your every movement. Each painting serves as a silent reminder of the family's storied history and the weight of their legacy.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD BOOKS
+205
+noitem
+Old Books
+ The tables are strewn with old, leather-bound tomes, their pages yellowed and fragile with age. These books, relics of a desperate past, hold fragments of knowledge-a glimmer of hope amidst the surrounding despair.
+--COMMAND END--
+--COMMAND START--
+READ OLD BOOKS
+205
+noitem
+Old Books
+ You carefully pick up a crumbling volume and leaf through its delicate pages. It recounts a fleeting encounter with the tribes that once roamed this cursed land, offering little more than fragmented tales of survival and conflict.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BEAMS
+213
+noitem
+Beams
+ The room's ancient wooden beams, weakened and rotted by years of exposure, have succumbed to time. They now lie scattered and broken, a stark reminder of the relentless decay and fragility of even the sturdiest structures.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CRATES
+229
+noitem
+Crates
+ A stack of old sealed-off crates, covered in a layer of dust.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BEDS
+230
+noitem
+Beds
+ Old hay-filled beds that have been forgotten.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+230
+noitem
+Sleep
+ Best not to. You have an adventure to go on.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FIREPIT
+241
+noitem
+Firepit
+ Soot-stained stones are all you see.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE
+244
+noitem
+Stone
+ You look over the edge to see just where the stone fell, but it's lost in the brush and trees.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SCRATCHES
+247
+noitem
+Scratches
+ Many scratches scar the rocks. Just the thought of what caused this sends shivers down your spine.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MESSAGE
+250
+noitem
+Message
+ A message scrawled in the ash from the firepit by someone in a time of panic.
+--COMMAND END--
+--COMMAND START--
+READ MESSAGE
+250
+noitem
+Message
+ It reads, We are doomed.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LOOKOUT POINT
+251
+noitem
+Lookout Point
+ You stand before the lookout point and see, off in the distance, the clearing to the mighty forest. From that point, there is a majestic mountain range.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BEDS
+291
+noitem
+Beds
+ Old beds, untouched by the hands of time, remain here as silent witnesses to the years gone by.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+291
+noitem
+Beds
+ You lay down and close your eyes. The world around you spins, dissolving into an endless void of darkness. Suddenly, the piercing sound of screams jolts you awake.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOODEN DISHES
+292
+noitem
+Wooden Dishes
+ Roughly carved wooden dishes lie scattered about, fashioned from whatever materials could be scavenged.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUES
+307
+noitem
+Statues of Fallen Gods
+ These towering statues loom over you, depicting the gods who once shaped all life within this realm. Their grandeur speaks of an age long past.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MUSHROOMS
+324
+noitem
+Mushrooms
+ A foul smell of decay emanates from the mushrooms and slime, filling you with unease and a sense of foreboding.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PORTAL
+355
+noitem
+Portal
+ The portal looms before you, towering overhead like a blurry, shifting mirror that distorts reality.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUES
+359
+noitem
+Statues
+ Weathered statues, crafted centuries ago, are all that remain after the relentless hands of time claimed the rest.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CRATES
+359
+noitem
+Statues
+ Fragments of what once formed sturdy crates now lie scattered across the area, remnants of a forgotten purpose.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GEARS
+401
+noitem
+Gears
+ Old metal gears turn, breathing life into this ancient mechanical clock.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DRAWINGS
+402
+noitem
+Drawings
+ Drawings depict the various components of the clock, as if its construction were still in progress.
+--COMMAND END--
+--COMMAND START--
+TAKE DRAWINGS
+402
+noitem
+Drawings
+ It's best to leave them here.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WALLPAPER
+414
+noitem
+Wallpaper
+ Faded, tattered wallpaper clings desperately to the walls, a last vestige of the past.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BED
+414
+noitem
+Bed
+ A plain, empty bed. Nothing remarkable.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+414
+noitem
+Bed
+ It's not the right time to sleep here.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DESK
+414
+noitem
+Desk
+ An old writing desk, held together by mismatched pieces of wood scavenged over the years.
+--COMMAND END--
+--COMMAND START--
+SEARCH DESK
+414
+noitem
+Desk
+ You find nothing of use.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD CLOCK PARTS
+422
+noitem
+Old Clock Parts
+ A graveyard of rusted clock parts, coated in dust and as large as wagons.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARPET
+435
+noitem
+Carpet
+ An aged, worn carpet, woven by the hands of village artisans long ago.
+--COMMAND END--
+--COMMAND START--
+TAKE CARPET
+435
+noitem
+Carpet
+ What would I do with it?
+--COMMAND END--
+--COMMAND START--
+EXAMINE BED
+435
+noitem
+Bed
+ A patchwork bed stitched from salvaged scraps, carrying the faint smell of a barn.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+435
+noitem
+Bed
+ You'd rather not.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STOVE
+436
+noitem
+Stove
+ An old stove once used for cooking. But why is it here?
+--COMMAND END--
+--COMMAND START--
+OPEN STOVE
+436
+noitem
+Stove
+ The stove is locked.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HOLES
+443
+noitem
+Holes
+ Where they lead is anyone's guess.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WAGONS
+445
+noitem
+Wagons
+ Scattered before you are the remnants of wagons that once served a purpose in everyday life. Now, they lie abandoned and rotting, a silent testament to the passage of time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TAVERN SIGN
+448
+noitem
+Tavern Sign
+ A hand-carved wooden sign creaks gently in the breeze. Painted upon it is the image of a proud owl, its sharp eyes seemingly watching all who pass. Beneath the bird, the words -The Wise Owl Tavern- are etched with care, though the paint has begun to fade with age.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WELL
+453
+noitem
+Well
+ Standing at the center of the clearing, the old stone well plunges deep into the earth. A sturdy rope is looped through a weathered pulley, and a wooden bucket hangs at its end, ready to be lowered into the depths.
+--COMMAND END--
+--COMMAND START--
+USE BUCKET
+453
+noitem
+Well
+ You grip the rope firmly and lower the bucket into the well. After a moment, you hear a soft splash. Pulling the bucket back up, you reveal it brimming with cool, clear water.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FENCE
+456
+noitem
+Fence
+ An aged wooden fence stretches along the edge of the path, its once-proud posts now weathered and brittle. It seems as though a single strong wind might send it crumbling into dust.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETON
+483
+noitem
+Skeleton
+ The decayed remains of a forgotten soul, left to rot beneath this once-holy house.
+--COMMAND END--
+--COMMAND START--
+SEARCH SKELETON
+483
+noitem
+Skeleton
+ You find nothing of interest.
+--COMMAND END--
+--COMMAND START--
+EXAMINE IRON DOOR
+484
+noitem
+Iron Door
+ A heavily rusted iron door stands before you, its surface mottled with age.
+--COMMAND END--
+--COMMAND START--
+OPEN IRON DOOR
+484
+noitem
+Iron Door
+ The door refuses to budge. It's locked.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BONES
+501
+noitem
+Bones
+ Weathered and stained bones lie scattered across the ground, grim remnants of those who have succumbed to this hellish place.
+--COMMAND END--
+--COMMAND START--
+TAKE BONES
+501
+noitem
+Bones
+ You pause, your hand hovering over the remains. A question lingers in your mind: Why?
+--COMMAND END--
+--COMMAND START--
+WHY
+501
+noitem
+Bones
+ Because it feels wrong.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ALTAR
+510
+noitem
+Altar
+ A stone altar, weathered by time, stands solemnly in the clearing. Built to honor the gods with the finest harvest offerings, it now sits empty and forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WHEAT
+515
+noitem
+Wheat
+ A golden expanse of wheat stretches before you, reaching up to your knees. The stalks sway gently with the rhythm of the wind, whispering secrets of the fields.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BED
+519
+noitem
+Bed
+ A freshly made bed, stark against the room's layer of dust and soot, seems oddly out of place, as though untouched by time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DRESSER
+519
+noitem
+Dresser
+ A plain wooden dresser, unassuming and utilitarian, likely holds the simple clothing of a farmer's life.
+--COMMAND END--
+--COMMAND START--
+OPEN DRESSER
+519
+noitem
+Dresser
+ Inside, you discover a modest collection of neatly folded shirts and pants.
+--COMMAND END--
+--COMMAND START--
+TAKE CLOTHES
+519
+noitem
+Dresser
+ It's best not to steal from those who work the land.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WEBBING
+527
+noitem
+Webbing
+ The webs are ancient, their once intricate patterns now dissolving with the passage of time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WEBS
+534
+noitem
+Webs
+ The webs span the divide, their sticky strands glistening ominously in the dim light.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SPIDER WEBS
+544
+noitem
+Spider Webs
+ Massive spider webs, intricately crafted, stretch across the area, hoping to ensnare anyone or anything unfortunate enough to get caught.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BONES
+549
+noitem
+Bones
+ A scattered collection of bones from numerous souls who lost their lives in this forsaken place.
+--COMMAND END--
+--COMMAND START--
+TAKE BONES
+549
+noitem
+Bones
+ It's best not to disturb this resting place.
+--COMMAND END--
+--COMMAND START--
+EXAINE ALTAR
+550
+noitem
+Altar
+ Crafted from pieces of wood and stone, the altar stands as a solemn place of worship for a forgotten god.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BED
+550
+noitem
+Bed
+ The bed consists of a pile of straw topped with a few tattered, hole-ridden blankets.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+550
+noitem
+Bed
+ It's best not to sleep in someone else's bed.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HOLY SPIRIT
+551
+noitem
+Holy Spirit
+ A grotesque makeshift creature, the Holy Spirit prowls these parts, feasting on the flesh of the living. It has eight legs fashioned from scraps of wood and a body formed from a human skull.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE BRIDGE
+723
+noitem
+Stone Bridge
+ An ancient stone bridge built centuries ago, its weathered stones standing as a testament to the craftsmanship of a bygone era.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RIVER
+723
+noitem
+River
+ A wide, gently flowing river, moving at a leisurely pace. Its crystal-clear waters sparkle invitingly under the sunlight.
+--COMMAND END--
+--COMMAND START--
+JUMP IN
+723
+noitem
+River
+ You resist the temptation; there's an adventure to focus on, and a cold is the last thing you need.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TORCHES
+726
+noitem
+Torches
+ Large stone bowls perched atop sturdy stone pillars. They cast a warm, steady light and radiate comforting heat.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SIGN
+742
+noitem
+Sign
+ It reads: The Life of the Holy.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CRATES
+749
+noitem
+Crates
+ Old wooden crates rest here, covered in a thin layer of dust.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CRATES
+754
+noitem
+Crates
+ Wooden crates brimming with pickaxes and other mining tools.
+--COMMAND END--
+--COMMAND START--
+TAKE PICKAXES
+754
+noitem
+Pickaxes
+ It's probably best not to steal.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ROCKS
+755
+noitem
+Rocks
+ Nothing more than worthless chunks of stone.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DEBRIS
+755
+noitem
+Crates
+ The carts are filled with broken wood and rusted metal fragments.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD RAIL CARS
+762
+noitem
+Crates
+ The decaying rail cars lie abandoned, left to rot in this desolate place.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WORSHIP
+766
+noitem
+Worship
+ A towering statue of Vaelthoryn looms above, its presence commanding and awe-inspiring.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOTHES
+767
+noitem
+Clothes
+ Torn garments are scattered across the ground, remnants of a life now forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BROKEN TABLES
+767
+noitem
+Broken Tables
+ The decayed remains of tables are strewn about, their purpose long lost to time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DESK
+768
+noitem
+Desk
+ An old writing desk stands here, worn but still sturdy.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GREEN ORE
+770
+noitem
+Green Ore
+ A pile of freshly mined green ore glimmers faintly in the dim light.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BEDS
+774
+noitem
+Beds
+ The beds, belonging to those who call this place home, are neatly made.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+774
+noitem
+Beds
+ You're not tired.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CRATES
+775
+noitem
+Crates
+ Crates filled with supplies essential for the miners' survival stand neatly stacked, ensuring they can work underground without interruption.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOKS
+785
+noitem
+Books
+ A vast collection of books lines the walls, chronicling the history of a long-forgotten people.
+--COMMAND END--
+--COMMAND START--
+READ BOOKS
+785
+noitem
+Books
+ The books are written in a language lost to time. You cannot decipher them.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TEXTS
+788
+noitem
+Texts
+ An assortment of ancient texts rests here, their subjects shrouded in eternal mystery.
+--COMMAND END--
+--COMMAND START--
+READ TEXTS
+788
+noitem
+Texts
+ The language is unfamiliar, and you cannot make sense of the writings.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PORTRAIT
+801
+noitem
+Portrait
+ The portrait depicts the Custodian, clad in regal armor and standing tall, exuding an aura of authority and purpose.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PLATFORM
+805
+noitem
+Platform
+ A peculiar metallic platform rests here, silent and unmoving, as though waiting for its purpose to be fulfilled.
+--COMMAND END--
+--COMMAND START--
+USE PLATFORM
+805
+noitem
+Platform
+ You can't.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WALL
+829
+noitem
+Wall
+ It's been built to keep you out-or perhaps to keep something in.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CRATES
+832
+noitem
+Crates
+ Old wooden crates, filled with supplies-or so you think.
+--COMMAND END--
+--COMMAND START--
+OPEN CRATES
+832
+noitem
+Crates
+ They're sealed shut.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SUPPLIES
+832
+noitem
+Supplies
+ A vast collection of provisions for those who live within this place.
+--COMMAND END--
+--COMMAND START--
+TAKE SUPPLIES
+832
+noitem
+Supplies
+ It's best not to take what isn't yours.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BLANKET
+840
+noitem
+Blanket
+ An old, stained blanket covers something you fear to uncover.
+--COMMAND END--
+--COMMAND START--
+REMOVE BLANKET
+840
+noitem
+Blanket
+ You slowly pull it back to reveal the putrefied remains of a corpse, partially eaten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE COFFINS
+844
+noitem
+Coffins
+ Aged wooden coffins, marked by dirt and the relentless passage of time. An uneasy feeling washes over you.
+--COMMAND END--
+--COMMAND START--
+OPEN COFFINS
+844
+noitem
+Coffins
+ They're empty.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOODEN GATE
+845
+noitem
+Wooden Gate
+ A handcrafted gate, cobbled together from whatever scraps of wood could be salvaged.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WRITINGS
+852
+noitem
+Writings
+ Frantic scribbles etched into the walls with blood, the work of a mind far from sanity.
+--COMMAND END--
+--COMMAND START--
+READ WRITINGS
+852
+noitem
+Writings
+ The only part you can decipher is a single, chilling warning: -Keep out.-
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+853
+noitem
+Statue
+ A stone statue, crafted as part of some forgotten religious worship. It depicts a woman standing tall, her gaze fixed downward, arms raised high in silent supplication.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SCRATCH MARKS
+873
+noitem
+Scratch Marks
+ Massive claw marks are etched deep into the walls, evidence of a beast that must have towered at least twelve feet tall.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+894
+noitem
+Statue
+ Carved from pure marble, the statue stands before you, a tribute to an ancient god who once descended upon this world, bestowing a great and mysterious power.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+895
+noitem
+Statue
+ Carved from pure marble, the statue stands before you, a tribute to an ancient god who once descended upon this world, bestowing a great and mysterious power.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DOORWAY
+897
+noitem
+Doorway
+ The towering doorway crackles with an electric hum, the air around it charged and alive. Its surface ripples like a flowing river, glinting with a metallic sheen that feels almost otherworldly.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE PILLAR
+898
+noitem
+Stone Pillar
+ Constructed from a material that seems unearthly and timeless, the pillar hums softly as it powers the ancient doorway with its enigmatic energy.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE PILLAR
+899
+noitem
+Stone Pillar
+ Constructed from a material that seems unearthly and timeless, the pillar hums softly as it powers the ancient doorway with its enigmatic energy.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TAPESTRIES
+902
+noitem
+Tapestries
+ Crimson and gold tapestries hang high upon the walls, their intricate designs weaving the tale of a great hero who once vanquished the evil that plagued the land.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BODIES
+907
+noitem
+Bodies
+ A grim collection of long-departed bodies lies before you. Their flesh bears strange carvings, symbols etched with unsettling precision. Was this some desperate attempt to bring them back to life?
+--COMMAND END--
+--COMMAND START--
+EXAMINE STEAM
+929
+noitem
+Steam
+ Strong jets of steam hiss from beneath the grated floor, nearly blocking your path.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TAPESTRIES
+902
+noitem
+Tapestries
+ Crimson and gold tapestries hang high upon the walls, their intricate designs weaving the tale of a great hero who once vanquished the evil that plagued the land.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BODIES
+907
+noitem
+Bodies
+ A grim collection of long-departed bodies lies before you. Their flesh bears strange carvings, symbols etched with unsettling precision. Was this some desperate attempt to bring them back to life?
+--COMMAND END--
+--COMMAND START--
+EXAMINE BENCH
+979
+noitem
+Bench
+ Handcrafted with care, the bench stands as a place for quiet reflection.
+--COMMAND END--
+--COMMAND START--
+SIT
+979
+noitem
+Bench
+ You sit down, letting the silence wash over you. For a brief moment, peace finds you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GRAVE
+981
+noitem
+Grave
+ The scent of freshly turned earth lingers in the air. Peering into the grave, you see nothing out of the ordinary.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SAW
+986
+noitem
+Saw
+ A patched-together contraption hums with life, its large belt whirring as the saw blade spins relentlessly.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BENCH
+992
+noitem
+Bench
+ Simple, sturdy benches, built for all to rest and take in the world around them.
+--COMMAND END--
+--COMMAND START--
+SIT
+979
+noitem
+Bench
+ You settle onto the bench, allowing yourself a moment to admire the beauty of the land.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WAGON
+1001
+noitem
+Wagon
+ A rusted iron frame with rotting wood barely holding on, stubbornly clinging to existence in this world.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FARMHOUSE
+1002
+noitem
+Farmhouse
+ The windows are boarded up, the wood is weathered, and the entire structure looks as though it could collapse at any moment.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SCRATCHES
+1006
+noitem
+Scratches
+ Deep gashes mar the wood-left behind by some desperate creature, either trying to escape... or force its way in.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DOORS
+1014
+noitem
+Doors
+ A faint wailing drifts from an unknown location, sending a shiver down your spine.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SCREAM
+1015
+noitem
+Scream
+ A bloodcurdling scream-a woman's voice-pierces the silence. Then, just as suddenly, it stops.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOTHES
+1019
+noitem
+Clothes
+ A neatly folded pile of farmers' clothes-men's and women's-rests here, as if waiting for their owners to return.
+--COMMAND END--
+--COMMAND START--
+TAKE CLOTHES
+1019
+noitem
+Clothes
+ Best not to steal someone else's laundry.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BED
+1050
+noitem
+Bed
+ Its stuffing spills out from the broken seams of the mattress.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+1002
+noitem
+Bed
+ Best not to do that.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CHAINS
+1051
+noitem
+Chains
+ Old, rusted chains hang throughout this place. But for what purpose?
+--COMMAND END--
+--COMMAND START--
+EXAMINE TABLE
+1032
+noitem
+Table
+ An old, blood-stained table-used either to feed the beast or to create it.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BED
+1054
+noitem
+Bed
+ A simple pile of hay. Nothing worth noting.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+1054
+noitem
+Table
+ You undress and sleep for a few hours. Suddenly, you awaken, dress, and prepare for adventure.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PLATE
+1055
+noitem
+Plate
+ A wooden plate holds a vile meal of rancid organs.
+--COMMAND END--
+--COMMAND START--
+EAT
+1055
+noitem
+Plate
+ You'd rather not.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BUCKET
+1056
+noitem
+Bucket
+ A warm bucket of water, its surface covered by a thick layer of slime.
+--COMMAND END--
+--COMMAND START--
+DRINK
+1056
+noitem
+Bucket
+ What is wrong with you?
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE
+1091
+noitem
+Stone
+ Massive stone slabs, seemingly extracted from a reality beyond comprehension, stand ominously. Their purpose is uncertain, though they may have once powered some unknown machine.
+--COMMAND END--
+--COMMAND START--
+EXAMINE METAL PIPE
+1096
+noitem
+Metal Pipe
+ A peculiar metal pipe juts from the earth, its surface corroded with age, hinting at years of neglect and exposure.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RUSTED PARTS
+1097
+noitem
+Rusted Parts
+ A vast collection of rusted fragments-once integral to mechanized workers-now lies in a state of complete disrepair, their function long forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STRANGE WRITINGS
+1104
+noitem
+Strange Writings
+ Etched deep into the wall, cryptic inscriptions form patterns in a language lost to time, their meaning obscured by the ages.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ANCIENT RELICS
+1108
+noitem
+Ancient Relics
+ A series of aged busts, depicting figures from a forgotten era, stand as silent sentinels. Their once-proud visages remain, remnants of a civilization lost to history.
+--COMMAND END--
+--COMMAND START--
+EXAMINE COPPER SPHERE
+1110
+noitem
+Copper Sphere
+ A massive copper sphere glides eerily through the air, its surface undulating like liquid metal. A low, resonant hum emanates from within, stirring an inexplicable unease.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DOORWAY
+1113
+noitem
+Doorway
+ A sudden gust of wind rushes past, vanishing into the doorway-a shimmering, fluid-like surface that ripples as though composed of liquid itself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARVINGS
+1117
+noitem
+Carvings
+ Strange images are etched into the walls-otherworldly beings dragging the souls of the innocent into a dark and unknowable realm.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+1121
+noitem
+Statue
+ A towering figure stands before you, frozen in an attack stance, gripping a staff. Once worshipped by the masses, its reverence faded lifetimes ago.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARVED FACES
+1134
+noitem
+Carved Faces
+ Featureless faces stare back at you-void of emotion, void of life. They feel utterly alien, as if belonging to something beyond this world.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARVED FACES
+1135
+noitem
+Carved Faces
+ Chiseled into the walls, these faces remain as silent monuments. Were they once gods, or mere echoes of those who lived here long ago?
+--COMMAND END--
+--COMMAND START--
+EXAMINE PORTRAITS
+1140
+noitem
+Portraits
+ Ancient portraits of long-forgotten leaders of the faith. Each painting depicts sacred places that once stood at the heart of their mighty society.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ALTAR
+1142
+noitem
+Altar
+ A large stone altar adorned with gold and silver, a place where the gods accept the meager offerings left in their honor.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RUBBLE
+1147
+noitem
+Rubble
+ A large pile of jagged rocks, covered in a thick layer of dust and soot.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINING EQUIPMENT
+1150
+noitem
+Mining Equipment
+ Old pickaxes and shovels lay scattered about, rotting away-a silent reminder of what once was.
+--COMMAND END--
+--COMMAND START--
+TAKE MINING EQUIPMENT
+1150
+noitem
+Mining Equipment
+ You have no use for such things. Perhaps later.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CROSSES
+1155
+noitem
+Crosses
+ Massive crosses, constructed from bones of all sizes, stand as grim warnings to outsiders.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PAINTINGS
+1158
+noitem
+Paintings
+ Faded paintings depict strange stories of how the world around you came to be.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUES
+1159
+noitem
+Statues
+ Ancient statues, sculpted by hands long since turned to dust, stand in solemn silence.
+--COMMAND END--
+--COMMAND START--
+EXAMINE POT
+1163
+noitem
+Pot
+ A simmering concoction of spices and unknown ingredients fills the air with a tantalizing aroma. Your mouth waters at the thought of a hot meal.
+--COMMAND END--
+--COMMAND START--
+EAT
+1163
+noitem
+Pot
+ The flavors dance across your tongue in perfect harmony. But from the corner of your eye, you spot something-a human bone, half-submerged in the broth. Nausea grips you as realization sets in.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUES
+1171
+noitem
+Statues
+ Standing in imposing stances, these statues depict the gods of an ancient world order.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BEDS
+1181
+noitem
+Beds
+ A haphazard collection of beds, cobbled together from whatever scraps could be salvaged.
+--COMMAND END--
+--COMMAND START--
+SLEEP
+1181
+noitem
+Beds
+ You lay down and drift into sleep almost instantly. Then, a voice-unfamiliar yet urgent-whispers in your ear: You are Drakhan, the great adventurer who has faced evil. Please, meet me at the Tomb of the Unborn King. There, you will find the answer.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOAT
+1215
+noitem
+Boat
+ An old boat, its surface stained by years of mineral-rich water. It is small, meant for a single soul.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BLANKETS
+1228
+noitem
+Blankets
+ Tattered yet beautiful, the weathered blankets of a forgotten society hang before you, their patterns whispering of a lost past.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PAINTED SKULLS
+1230
+noitem
+Painted Skulls
+ Skulls, painted in deep blue and adorned with colorful stones and emeralds, stand as solemn relics of what once was.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FOUNTAIN
+1245
+noitem
+Fountain
+ An old stone fountain, its original purpose lost to time. What it was once meant to hold remains a mystery.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DOLL
+1246
+noitem
+Doll
+ Carved hands made of wood, the body draped in ragged clothing. The craftsmanship is both crude and unsettling.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WINDOW
+1251
+noitem
+Window
+ The glass is weathered, stained by the endless rains of this forsaken land.
+--COMMAND END--
+--COMMAND START--
+LOOKOUT WINDOW
+1251
+noitem
+Window
+ You press your face against the glass and peer into the abyss. From the darkness, a strange figure watches you from the wilderness.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WORSHIPPERS
+1252
+noitem
+Worshippers
+ A gathering of figures, lost in prayer. You raise your lantern to get a better look, and in unison, they turn their heads to face you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DOLL
+1258
+noitem
+Doll
+ A creation, draped in dust and cobwebs. Its presence is eerily still, frozen in time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOAKED FIGURE
+1260
+noitem
+Cloaked Figure
+ You stumble into a cloaked figure, and something about it feels wrong, different from the others. You reach out and yank at the robe-beneath it, nothing.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DOLLS
+1261
+noitem
+Dolls
+ Dolls stacked upon one another, arranged as if swapped out at regular intervals. They seem to watch you, each more lifelike than the last.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DOOR
+1264
+noitem
+Door
+ An old wooden door, nailed shut with heavy boards. From the other side comes the sound of labored breathing-something forsaken waits within.
+--COMMAND END--
+--COMMAND START--
+OPEN DOOR
+1264
+noitem
+Door
+ You reach for the barricades, but before you can act, the air fills with the screams of madness. After a moment, all that remains is the sound of soft, mournful crying.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ORB
+1269
+noitem
+Orb
+ A green orb hovers in the air, casting an eerie glow. Though it appears harmless, something about it feels... off.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+1274
+noitem
+Statue
+ Carved from marble, the statue depicts a grieving mother, her face buried in her hands, frozen in eternal sorrow.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OFFERING DISH
+1274
+noitem
+Offering Dish
+ A stone dish sits before you, filled with an unsettling mix of children's dolls and other worn toys.
+--COMMAND END--
+--COMMAND START--
+TAKE DOLLS
+1274
+noitem
+Offering Dish
+ Best not to do that.
+--COMMAND END--
+--COMMAND START--
+TAKE TOYS
+1274
+noitem
+Offering Dish
+ You have no need for toys.
+--COMMAND END--
+--COMMAND START--
+LOOKOUT VOID
+1279
+noitem
+Void
+ Beyond the darkness, you glimpse the faint image of a lone figure hunched before a dim light, tirelessly working away.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SLIME
+1283
+noitem
+Slime
+ A thick, clear slime oozes from the cracks in the walls, its origin unknown.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MIRRORS
+1294
+noitem
+Mirrors
+ You pull back a sheet, but just as your reflection is about to appear, an unseen force stops you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PORTRAITS
+1295
+noitem
+Portraits
+ Family portraits line the walls, but their faces have been crudely painted over. Their identities, now lost, will remain unknown forever.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOODEN MARKERS
+1331
+noitem
+Wooden Markers
+ Crude, handmade grave markers stand solemnly, placed by the hands of those who buried their own loved ones.
+--COMMAND END--
+--COMMAND START--
+READ WOODEN MARKERS
+1331
+noitem
+Wooden Markers
+ The inscriptions are indecipherable, written in a language you do not understand.
+--COMMAND END--
+--COMMAND START--
+EXAMINE COFFINS
+1334
+noitem
+Coffins
+ Each coffin is handcrafted with care, their black surfaces dulled by a thick layer of dust, untouched by time.
+--COMMAND END--
+--COMMAND START--
+OPEN COFFINS
+1334
+noitem
+Coffins
+ You hesitate, and ultimately decide against it.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PEOPLE
+1337
+noitem
+People
+ A mass of people moves with purpose, each one seemingly bound for some unknown destination. A strange odor clings to them-faint, yet unmistakable, like the scent of death.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RUSTED GEARS
+1343
+noitem
+Rusted Gears
+ A scattered collection of gears, their various sizes hinting at past purpose. Now, rust consumes them, leaving only remnants of a forgotten machine.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ANIMAL REMAINS
+1377
+noitem
+Animal Remains
+ The severed legs of various animals lie scattered before you. But why? What purpose could they serve?
+--COMMAND END--
+--COMMAND START--
+EXAMINE PORTRAITS
+1378
+noitem
+Portraits
+ Each portrait features a different young woman, yet they all wear the same dress. The eyes seem to watch you, their expressions eerily similar.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ALTAR
+1379
+noitem
+Altar
+ Crafted from wood and stone, the altar cradles an offering-waiting, expectant.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OFFERING
+1379
+noitem
+Altar
+ A heart, slick and glistening. Human or animal? You can only hope it's the latter.
+--COMMAND END--
+--COMMAND START--
+CONSUME OFFERING
+1379
+noitem
+Altar
+ That's not going to happen.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BODIES
+1400
+noitem
+Bodies
+ Decaying corpses lie motionless, their presence a grim testament to the past. How long they have been here is anyone's guess. A pungent stench hangs heavy in the air.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARVINGS
+1403
+noitem
+Carvings
+ The ancient carvings depict a strange creature being offered the bodies of the recently deceased. How long this ritual has taken place is unknown, but one thing is clear-the beast has developed a taste for human flesh.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GLOBE
+1432
+noitem
+Globe
+ A hand-carved wooden globe, its surface painted to depict vast and varied terrains.
+--COMMAND END--
+--COMMAND START--
+SPIN GLOBE
+1432
+noitem
+Globe
+ You give it a gentle spin, watching as it slowly comes to a stop.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+1433
+noitem
+Statue
+ A towering statue of a warrior, his sword raised high to the heavens, as if calling others to follow his lead.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARVINGS
+1452
+noitem
+Carving
+ The carvings depict a tale of a cruel creator who toyed with the lives of its followers, indulging in feasts and laughter as they suffered.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CELLS
+1461
+noitem
+Cells
+ The old cells are bare, each containing nothing more than a pile of hay for a bed and a bucket for... well, best left unsaid.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CELLS
+1462
+noitem
+Cells
+ Beyond the usual pile of hay and the bucket, you notice deep scratch marks etched into the walls-desperate, uneven, and numerous.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ARCHWAY
+1464
+noitem
+Archway
+ The surface shimmers like crystal-clear water, perfectly still, like the surface of a tranquil lake.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MIRRORS
+1478
+noitem
+Mirrors
+ Old mirrors of various shapes and sizes cover the walls, their surfaces eerily well-maintained.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FOUNTAIN
+1484
+noitem
+Fountain
+ You gaze upon the once-lively fountain, a relic of the past that once sustained these people.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKULLS
+1489
+noitem
+Skulls
+ A mound of skulls rises before you, arranged with unsettling precision. Is this an act of reverence for the dead-or devotion to a god?
+--COMMAND END--
+--COMMAND START--
+EXAMINE TOMB
+1500
+noitem
+Tomb
+ Carved from stone and adorned with gold and silver, this tomb speaks of a life that ended in wealth and reverence.
+--COMMAND END--
+--COMMAND START--
+OPEN TOMB
+1500
+noitem
+Tomb
+ Best not to disturb the spirits.
+--COMMAND END--
+--COMMAND START--
+EXAMINE COFFINS
+1501
+noitem
+Coffins
+ Wooden coffins rise from the ground, their surfaces untouched by time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRAYER GLYPH
+1504
+noitem
+Prayer Glyph
+ Etched into stone and adorned with intricate designs, this glyph is said to be where travelers of the gods seek protection.
+--COMMAND END--
+--COMMAND START--
+PRAY FOR PROTECTION
+1504
+noitem
+Prayer Glyph
+ You close your eyes and offer a prayer. A sudden warmth washes over you, followed by a blinding flash of blue light.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ARCHWAY
+1507
+noitem
+Archway
+ Once a masterpiece of stone and precious metals, the archway now stands broken and forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DRINKING WELL
+1522
+noitem
+Drinking Well
+ Built from stone and well maintained, a bucket hangs from a weathered rope just above the opening.
+--COMMAND END--
+--COMMAND START--
+DRINK
+1522
+noitem
+Drinking Well
+ You lower the bucket into the dark water, slowly pulling it up to take a refreshing sip of cold, crisp water.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SPEARS
+1534
+noitem
+Spears
+ Handmade spears, fashioned from whatever scraps of wood could be found. Sharpened to a fine point, they await their use.
+--COMMAND END--
+--COMMAND START--
+TAKE SPEARS
+1534
+noitem
+Spears
+ You don't need any.
+--COMMAND END--
+--COMMAND START--
+EXAMINE AXES
+1534
+noitem
+Axes
+ Old battle-worn axes, crudely crafted from whatever materials were at hand.
+--COMMAND END--
+--COMMAND START--
+TAKE AXES
+1534
+noitem
+Axes
+ You consider it for a moment but decide it's best to leave them be.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOOK
+1538
+noitem
+Book
+ Bound in old leather from an unknown time, its contents remain a mystery to you.
+--COMMAND END--
+--COMMAND START--
+READ BOOK
+1538
+noitem
+Book
+ The fifth day of the month. The cries of the wolves at night-they call to us, one by one. Those foolish enough to listen are often taken before morning. Just the other day, I recall the children playing near the well. They were never seen again.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RUSTED POT
+1552
+noitem
+Rusted Pot
+ An old, rusted steel pot, long abandoned and left to decay in this forsaken place.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GATE
+1564
+noitem
+Gate
+ A grim structure of iron bars, draped in spiderwebs and adorned with the skulls of the forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WEBBING
+1569
+noitem
+Webbing
+ The webbing sways in an unseen current, shifting as though possessed by a silent, eerie will.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BONES
+1571
+noitem
+Bones
+ A scattering of ancient bones-remnants of lost souls whose names have faded into oblivion.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WEBS
+1572
+noitem
+Webs
+ The webs quiver and slither unnaturally, as if seeking the warmth of living flesh.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ANCIENT SEPULCHER
+1575
+noitem
+Ancient Sepulcher
+ A relic of immense religious significance, it stands before you, a barrier between realms beyond mortal understanding.
+--COMMAND END--
+--COMMAND START--
+MAKE OFFERING
+1575
+noitem
+Ancient Sepulcher
+ A deep sense of peace washes over you as a blessing is bestowed upon you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE COFFIN
+1588
+noitem
+Coffin
+ Crafted from the finest materials gathered from across the world, it serves as a solemn reminder of the fate that awaits all.
+--COMMAND END--
+--COMMAND START--
+OPEN COFFIN
+1588
+noitem
+Coffin
+ You hold your breath, fingers grazing the lid-just as a ghostly voice whispers, warning you to stop.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BASKETS
+1593
+noitem
+Baskets
+ Old woven baskets, long abandoned, now left to gather dust in the still air.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+1604
+noitem
+Statue
+ A statue of a woman stands before you, arms outstretched in silent welcome. Then, with stiff, unnatural movements, it begins to stir-as if roused from a thousand-year slumber.
+--COMMAND END--
+--COMMAND START--
+TALK TO STATUE
+1604
+noitem
+Statue
+ It does not speak. Instead, it moves in a slow, deliberate dance.
+--COMMAND END--
+--COMMAND START--
+EXAMINE VIEW
+1640
+noitem
+View
+ You gaze upon the untamed beauty of the wilderness. The sky is a mesmerizing blend of blue and purple, while a wall of thick trees looms before a vast valley.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FOUNTAIN
+1646
+noitem
+Fountain
+ A stone fountain trickles with crystal-clear water-the lifeblood of civilization.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ARCHWAY
+1650
+noitem
+Archway
+ A stone archway, its origins lost to time. Carved by unseen hands, it hums with an energy woven from forgotten magic.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FURNITURE
+1668
+noitem
+Furniture
+ A thin layer of dust coats them, undisturbed by time or touch.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MESSAGE
+1669
+noitem
+Message
+ It is etched into the wall, carved by rough stone with desperate precision.
+--COMMAND END--
+--COMMAND START--
+READ MESSAGE
+1669
+noitem
+Message
+ Time does not forget, nor does it forgive. Step where they have stepped, and you shall share their fate.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WELL
+1677
+noitem
+Stone Well
+ An old stone well, its depths vanishing into darkness below.
+--COMMAND END--
+--COMMAND START--
+LOWER BUCKET
+1677
+noitem
+Stone Well
+ You lower the bucket, its rope unspooling into the abyss.
+--COMMAND END--
+--COMMAND START--
+PULL BUCKET
+1677
+noitem
+Stone Well
+ You haul the bucket back up empty.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BENCH
+1692
+noitem
+Bench
+ Nothing more than a simple, weathered bench.
+--COMMAND END--
+--COMMAND START--
+SIT
+1692
+noitem
+Bench
+ You sit for a moment, allowing yourself a brief rest.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BONES
+1715
+noitem
+Bones
+ A scattered collection of brittle bones lies half-buried in the dirt, weathered by time and stripped clean by unknown forces. They serve as silent reminders of lives once lived, now forgotten.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LAMBS
+1734
+noitem
+Lambs
+ A small pen holds gentle lambs peacefully grazing, their soft wool catching the sun's golden rays. Innocent and unaware, they symbolize tranquility in an otherwise uncertain world.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHACKS
+1735
+noitem
+Shacks
+ Rows of humble shacks stand haphazardly constructed from weathered wood, rusted metal, and scavenged materials. Despite their fragile appearance, they provide shelter to souls living on the margins.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GARDEN
+1743
+noitem
+Garden
+ A modest community garden flourishes here, abundant with vegetables, herbs, and vibrant flowers. This patch of earth represents hope and unity, cultivated with care by unseen hands.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HOME
+1753
+noitem
+Home
+ This crumbling home, once warm with life and laughter, now lies abandoned and forgotten. Its walls whisper of memories long faded and joys that no longer echo within.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARVINGS
+1767
+noitem
+Carvings
+ Intricate carvings adorn the stone walls, depicting strange symbols and cryptic scenes. Their unsettling imagery suggests forgotten rituals, stories meant to remain hidden from prying eyes.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE SARCOPHAGI
+1774
+noitem
+Stone Sarcophagi
+ A row of stone sarcophagi stands solemnly in the shadows, their cold surfaces etched with faded runes. Silent guardians of secrets long buried, they exude an aura of reverence and dread.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KINGS GUARD
+7
+noitem
+King's Guard
+ Dressed in an old suit of armor marked by scuffs and dents, the guard's weary eyes peer through the narrow visor of the helmet. You sense he has stood watch at his post for an uncountable span of time.
+--COMMAND END--
+--COMMAND START--
+TALK TO KINGS GUARD
+7
+noitem
+King's Guard
+ He ignores you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD MAN
+18
+noitem
+Old Man
+ Wearing tattered robes, the old man seems out of place in a world that has decayed beyond repair. His face bears a tired expression, as though he hasn't known peace in years.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD MAN
+18
+noitem
+Old Man
+ It's been a lifetime since I've seen an outsider. If I were you, I'd leave before it's too late.
+--COMMAND END--
+--COMMAND START--
+TOO LATE
+18
+noitem
+Old Man
+ The longer you stay here, the sooner you'll fall prey to Malthera.
+--COMMAND END--
+--COMMAND START--
+MALTHERA
+18
+noitem
+Old Man
+ She walks among us, seeing all. She'll feast on you if you're not careful. Don't trust a soul. Now leave me alone.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CHILDREN
+21
+noitem
+Children
+ The children play among themselves, seemingly oblivious to the fact that their games unfold in the ruins of a fallen kingdom. They pay no attention to anyone else.
+--COMMAND END--
+--COMMAND START--
+TALK TO CHILDREN
+21
+noitem
+Children
+ They run away and continue playing.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ELDERLY WOMAN
+22
+noitem
+Elderly Woman
+ An elderly woman greets you with an eerie smile. Though the world around her has crumbled, her disapproval of your presence is palpable.
+--COMMAND END--
+--COMMAND START--
+TALK TO ELDERLY WOMAN
+22
+noitem
+Elderly Woman
+ An outsider? Looking for treasures that haven't been plundered? You're wasting your time. Everything's been taken by those greedy fools.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOMAN
+30
+noitem
+Woman
+ Dressed in white, this forlorn woman wanders aimlessly, muttering to herself as if trapped in a trance.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOMAN
+30
+noitem
+Woman
+ I'm sorry, my baby... I'm sorry I let her take you away...
+--COMMAND END--
+--COMMAND START--
+BABY
+30
+noitem
+Woman
+ I gave her my baby because she claimed it was possessed by a demon.
+--COMMAND END--
+--COMMAND START--
+DEMON
+30
+noitem
+Woman
+ I can't talk now. Go away.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+34
+noitem
+Guard
+ Standing watch in silence, the guard's statue-like demeanor is betrayed only by the way their eyes track your every move.
+--COMMAND END--
+--COMMAND START--
+TALK TO GUARD
+34
+noitem
+Guard
+ Move along, non-citizen.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FORTUNE TELLER
+36
+noitem
+Fortune Teller
+ Dressed in vibrant, colorful robes, the fortune teller greets you warmly. She cradles a crystal ball, claiming to channel the spirits of another realm.
+--COMMAND END--
+--COMMAND START--
+TALK TO FORTUNE TELLER
+36
+noitem
+Fortune Teller
+ You have traveled far to reach this forgotten land. I have spoken to the spirits, and they have given me your fortune.
+--COMMAND END--
+--COMMAND START--
+PRICE
+36
+noitem
+Fortune Teller
+ It has been determined that you will receive it for free.
+--COMMAND END--
+--COMMAND START--
+FORTUNE
+36
+noitem
+Fortune Teller
+ The mother who gives life will join the father who takes it away. Five crescent moons will light the truth, and only when all five shine will the truth be revealed.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KING'S GUARD
+43
+noitem
+Fortune Teller
+ Clad in a worn suit of armor with a sword and shield at his side, the guard notices your presence and instantly goes on alert.
+--COMMAND END--
+--COMMAND START--
+TALK TO KING'S GUARD
+43
+noitem
+Fortune Teller
+ By Oathmoor's hammer, an outsider. Take my advice: we don't take kindly to thieves. Steal from the King's people, and you'll hang by the rope.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+44
+noitem
+Guard
+ Adorned in golden armor and wielding a sword, the guard blocks your path.
+--COMMAND END--
+--COMMAND START--
+TALK TO GUARD
+44
+noitem
+Guard
+ The King summoned you? What business do you have?
+--COMMAND END--
+--COMMAND START--
+BUSINESS
+44
+noitem
+Guard
+ Malthera? Speak no more and see the King.
+--COMMAND END--
+--COMMAND START--
+MALTHERA
+44
+noitem
+Guard
+ That witch... Go on and speak with the King, fool.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINER
+53
+noitem
+Miner
+ Covered in a layer of dirt and sweat, this weary man seems burdened by regret. His entire life has been spent carving riches from the earth, yet he now appears lost in his thoughts.
+--COMMAND END--
+--COMMAND START--
+TALK TO MINER
+53
+noitem
+Miner
+ I've carved almost every inch of gold from these walls. And what do I have to show for it? I wasted my life. It's too late to start again.
+--COMMAND END--
+--COMMAND START--
+OATHMOOR
+53
+noitem
+Miner
+ Yes... that's where we are, isn't it?
+--COMMAND END--
+--COMMAND START--
+MALTHERA
+53
+noitem
+Miner
+ Who?
+--COMMAND END--
+--COMMAND START--
+EXAMINE ORC
+67
+noitem
+Orc
+ Towering over you in a makeshift suit of iron and bone armor, the Orc appears to have just returned from battle.
+--COMMAND END--
+--COMMAND START--
+TALK TO ORC
+67
+noitem
+Orc
+ Yes, human, I am here on a quest for glory-to bring treasure and knowledge.
+--COMMAND END--
+--COMMAND START--
+QUEST FOR GLORY
+67
+noitem
+Orc
+ I've heard tales of a beast that must be slain. When I succeed, I will become a hero.
+--COMMAND END--
+--COMMAND START--
+HERO
+53
+noitem
+Orc
+ The title of hero is the greatest honor. Immortalized in song for generations. It's the dream of every orc.
+--COMMAND END--
+--COMMAND START--
+FAREWELL
+67
+noitem
+Orc
+ Farewell, and protection on your journey. Perhaps we shall meet again.
+--COMMAND END--
+--COMMAND START--
+ORC
+67
+noitem
+Orc
+ Yes, foolish human, I am an orc. No, I don't speak like the rest of them-so don't ask.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ROOTS
+82
+noitem
+Roots
+ The roots move slowly, writhing like eels. A strange, ominous smell fills the air, as though this place is cursed with eternal doom.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIESTESS
+91
+noitem
+Priestess
+ Shrouded in a traditional brown robe, her face obscured by her hood, the priestess speaks in a stern tone.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIESTESS
+91
+noitem
+Priestess
+ You have found this holy temple, and you are safe within these walls. May I perform a traveler's blessing?
+--COMMAND END--
+--COMMAND START--
+TRAVELER'S BLESSING
+91
+noitem
+Priestess
+ By the spirits of the river and the wheat that grows beneath our feet, may you be protected from evil. May we meet again in the heavenly warmth of Aetheronic. Bless you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIESTESS
+91
+noitem
+Priestess
+ Shrouded in a traditional brown robe, her face obscured by her hood, the priestess speaks in a stern tone.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIESTESS
+91
+noitem
+Priestess
+ You have found this holy temple, and you are safe within these walls. May I perform a traveler's blessing?
+--COMMAND END--
+--COMMAND START--
+TRAVELER'S BLESSING
+91
+noitem
+Priestess
+ By the spirits of the river and the wheat that grows beneath our feet, may you be protected from evil. May we meet again in the heavenly warmth of Aetheronic. Bless you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIEST
+98
+noitem
+Priest
+ Clad in traditional brown robes, his face is hidden beneath his hood. He speaks calmly but with great authority.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIEST
+98
+noitem
+Priest
+ Greetings, traveler. Rest for a while and give thanks to Aetheronic.
+--COMMAND END--
+--COMMAND START--
+AETHERONIC
+98
+noitem
+Priest
+ The God of Light, tasked with guarding the Sun after Vaelthoryn stole it from the heavens.
+--COMMAND END--
+--COMMAND START--
+VAELTHORYN
+98
+noitem
+Priest
+ A trickster dragon of immense power. It stole the Sun from the gods and entrusted Aetheronic to protect it from being reclaimed.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIESTESS
+102
+noitem
+Priestess
+ This priestess, her face painted white, greets you solemnly within the hallowed temple.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIESTESS
+102
+noitem
+Priestess
+ Respect this place of worship. We are merely servants of the divine.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD PRIEST
+104
+noitem
+Old Priest
+ Draped in white robes, the old priest is engrossed in study. Upon seeing you, a flicker of disbelief crosses his face.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD PRIEST
+104
+noitem
+Old Priest
+ Welcome, adventurer, to our temple. May the knowledge of the heavens nourish your soul and mind.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+107
+noitem
+God of Life Statue
+ A massive stone statue looms over you, its outstretched arms symbolizing the act of giving life to the world.
+--COMMAND END--
+--COMMAND START--
+TALK TO STATUE
+107
+noitem
+God of Life Statue
+ The statue directs you toward a doorway.
+--COMMAND END--
+--COMMAND START--
+DOORWAY
+107
+noitem
+God of Life Statue
+ The statue remains silent.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HEAD PRIEST
+112
+noitem
+Head Priest
+ Clothed in yellow robes and exuding humility, the head priest welcomes you warmly into the temple.
+--COMMAND END--
+--COMMAND START--
+TALK TO HEAD PRIEST
+112
+noitem
+Head Priest
+ Walk among the faithful, learn from our sacred texts, and partake in the spiritual wisdom of this world.
+--COMMAND END--
+--COMMAND START--
+EXAMINE YOUNG WOMAN
+121
+noitem
+Young Woman
+ A somber young woman dressed entirely in black stands in quiet mourning, her face shadowed by sorrow.
+--COMMAND END--
+--COMMAND START--
+TALK TO YOUNG WOMAN
+121
+noitem
+Young Woman
+ She acts as though you aren't even there, her grief impenetrable.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STATUE
+124
+noitem
+Statue
+ A towering stone statue of the Guardian of the Dead looms over the area. Legends say it stands eternal vigil, protecting the departed in their everlasting rest.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MONK
+125
+noitem
+Monk
+ A serene monk, clad in a simple brown robe, roams the grounds. His calm demeanor reflects his mission to guide lost souls toward the light.
+--COMMAND END--
+--COMMAND START--
+TALK TO MONK
+125
+noitem
+Monk
+ ªI have arrived to bring peace to those who seek it,ª he says with quiet conviction.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LOST SOUL
+134
+noitem
+Lost Soul
+ This ghastly creature, skeletal and otherworldly, reaches out with a bony hand, attempting to drag you into the abyss.
+--COMMAND END--
+--COMMAND START--
+LISTEN TO WHISPERS
+136
+noitem
+Whispers
+ Ethereal murmurs swirl around you, their voices growing louder with each moment, filling the air with the secrets of the dead.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD WOMAN
+147
+noitem
+Old Woman
+ A weary old woman moves methodically, her tired hands lighting sticks of incense as she whispers prayers for the departed in a voice scarcely audible.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOAKED FIGURE
+151
+noitem
+Cloaked Figure
+ A shrouded figure lingers in the shadows, their focus distant and inward, as though they are lost within the realms of the dead.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARETAKER
+158
+noitem
+Caretaker
+ This weary man's demeanor reflects years of unyielding dedication. His life's purpose is to ensure that even those whose lives were tragically cut short find dignity in death.
+--COMMAND END--
+--COMMAND START--
+TALK TO CARETAKER
+158
+noitem
+Caretaker
+ An outsider? he says, his voice gravelly. Haven't met many of you. If you need to rest, feel free to do so by the fire. But respect the residents here. 
+--COMMAND END--
+--COMMAND START--
+EXAMINE NECROMANCER
+175
+noitem
+Necromancer
+ Clad entirely in black, the figure's face is obscured beneath a dark hood. Blood stains their hands as they cry out incantations, summoning the restless spirits of the dead.
+--COMMAND END--
+--COMMAND START--
+TALK TO NECROMANCER
+175
+noitem
+Necromancer
+ I call upon the flesh of the dead to rise and feast upon them! For they have strayed from the righteous path of Vaelthoryn, the necromancer bellows with fervor.
+--COMMAND END--
+--COMMAND START--
+VAELTHORYN
+175
+noitem
+Necromancer
+ The necromancer pays you no heed, lost in their dark rituals.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KNIGHT
+178
+noitem
+Knight
+ Dressed in a suit of armor, he stands guard, vigilant against the evils that may arise.
+--COMMAND END--
+--COMMAND START--
+TALK TO KNIGHT
+178
+noitem
+Knight
+ Move along, citizen. I am standing guard. Everyone's on high alert, and we must remain vigilant.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BARD
+181
+noitem
+Bard
+ Clad in an outfit of the finest cloth, he strums his lute, playing a melody that instills peace and calm.
+--COMMAND END--
+--COMMAND START--
+LISTEN TO BARD
+181
+noitem
+Bard
+ From the wilderness came a hero so bold, Who answered the call of King Soligo, With sword and lantern in tow, he lands will soon be free from the evil witch Malthera.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KING
+186
+noitem
+King
+ With a weary expression, he sits upon his throne and greets you with a simple hello.
+--COMMAND END--
+--COMMAND START--
+TALK TO KING
+186
+noitem
+King
+ The Adventurer has arrived. I must say we are pleased to have you in our midst. The evil witch Malthera has cursed the heavens, the lands, and all the citizens of the Kingdom of Oathmoor.
+--COMMAND END--
+--COMMAND START--
+MALTHERA
+186
+noitem
+King
+ She was once a member of the Royal Mage's House. Perhaps it was the allure of power that drew her over.
+--COMMAND END--
+--COMMAND START--
+ROYAL MAGES HOUSE
+186
+noitem
+King
+ It was once the crown jewel of the northern province. It housed the brightest and most powerful mages, dedicated to ensuring our safety.
+--COMMAND END--
+--COMMAND START--
+NORTHEN PROVINCE
+186
+noitem
+King
+ This is known as Borealislyn. The village of Oathmoor lies on the northernmost border, just before reaching no man's land.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ADVISORS
+186
+noitem
+Advisors
+ A group of the King's most trusted confidants, offering him the counsel he needs to rule.
+--COMMAND END--
+--COMMAND START--
+TALK TO ADVISORS
+186
+noitem
+Advisors
+ They ignore you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TROOPS
+187
+noitem
+Troops
+ On high alert for some time now, they stand with swords in hand, ready for action.
+--COMMAND END--
+--COMMAND START--
+TALK TO TROOPS
+187
+noitem
+Troops
+ Move along, citizen.
+--COMMAND END--
+--COMMAND START--
+EXAMINE NOBLES
+190
+noitem
+Nobles
+ The wealthy, conducting business here in hopes of securing their own survival.
+--COMMAND END--
+--COMMAND START--
+TALK TO NOBLES
+190
+noitem
+Nobles
+ They ignore you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRINCESS FEYHEART
+196
+noitem
+Princess Feyheart
+ Clad in a gown of the finest materials, her flowing hair frames a face filled with doubt as she gazes at you.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRINCESS FEYHEART
+196
+noitem
+Princess Feyheart
+ You must be the Adventurer my father sent for. Please, do what you can to save us from this evil magic. Those who once called this place home have been slaughtered. Those who claimed they would stop this have all failed. We are alone in this devilish nightscape. Please, save us all.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIEST
+198
+noitem
+Priest
+ Dressed in black, he greets you with a fearful expression, his mind seemingly elsewhere.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIEST
+198
+noitem
+Priest
+ They ignore you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ROYAL WIZARD
+204
+noitem
+Royal Wizard
+ Wearing a blue robe, the Wizard welcomes you into his sanctum.
+--COMMAND END--
+--COMMAND START--
+TALK TO ROYAL WIZARD
+204
+noitem
+Royal Wizard
+ Ah, yes. You are the Adventurer summoned by the King. I must admit I was reluctant to believe it, but now that I see you, I think we might have a chance. Beware of the hand of Umbrothar.
+--COMMAND END--
+--COMMAND START--
+UMBROTHAR
+204
+noitem
+Royal Wizard
+ It is said that she drags unsuspecting souls into the afterlife, turning them to stone with her touch.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+228
+noitem
+Guard
+ Dressed in an all-black quilted tunic, an old iron helmet, and a neatly crafted piece of chainmail, he has a tired expression etched upon his face.
+--COMMAND END--
+--COMMAND START--
+TALK TO GUARD
+228
+noitem
+Guard
+ Well, greetings, Adventurer. You are forsaken like the rest of us. We won't last long if this continues.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+231
+noitem
+Guard
+ He's weary from standing guard and ensuring the safety of everyone within the castle.
+--COMMAND END--
+--COMMAND START--
+TALK TO GUARD
+231
+noitem
+Guard
+ This was supposed to be a gravy tour. But here I am, standing watch to ensure those foul beasts don't take the castle. I've heard reports that Willowshade has already fallen.
+--COMMAND END--
+--COMMAND START--
+WILLOWSHADE
+231
+noitem
+Guard
+ Just south of the caves of Eldermoor, it was attacked by the dark forces of the dead.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+236
+noitem
+Guard
+ A weary soul, deeply doubtful of survival in the coming days. He appears to be on the brink of absolute ruin.
+--COMMAND END--
+--COMMAND START--
+TALK TO GUARD
+236
+noitem
+Guard
+ Move along, Adventurer. We need to stay vigilant to protect the King.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+246
+noitem
+Guard
+ His armor is torn to shreds, a tragic testament to a battle lost against a foe too powerful to defeat.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WINGED BEAST
+248
+noitem
+Winged Beast
+ A vile creature from the depths of the unknown. Its eyes glow red, and its wings span six feet. With fangs protruding from its maw, it waits for you to lower your guard.
+--COMMAND END--
+--COMMAND START--
+TALK TO WINGED BEAST
+248
+noitem
+Guard
+ The creature lets out a chilling laugh as it lunges at you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TORVENIS
+272
+noitem
+Torvenis
+ The strange creature appears to be moving itself about beneath you, as if waiting to drag you into the darkness.
+--COMMAND END--
+--COMMAND START--
+TALK TO TORVENIS
+272
+noitem
+Torvenis
+ It ignores you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DWELLEM
+275
+noitem
+Dwellem
+ Wearing a makeshift rusted metal for armour and painting to resemble that of a rockface, it lumbers about almost under a spell.
+--COMMAND END--
+--COMMAND START--
+TALK TO DWELLEM
+275
+noitem
+Dwellem
+ It ignores you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOMAN
+289
+noitem
+Woman
+ She's lost in a world unlike our own, she's chanting in an ancient language with her eye's closed.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOMAN
+289
+noitem
+Woman
+ It's best not to interrupt her at this time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ELDERLY PRIEST
+293
+noitem
+Elderly Priest
+ Dressed in rags and lurking about the darkness, staying true to his teachings and his oath to the Gods.
+--COMMAND END--
+--COMMAND START--
+TALK TO ELDERLY PRIEST
+293
+noitem
+Elderly Priest
+ He ignores you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETAL REMAIN
+299
+noitem
+Skeletal Remains
+ The skeletal remains of an unlucky soul left as a reminder of what awaits you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GOLECN
+304
+noitem
+Golecn
+ Crafted out of solid stone, it has not a face yet chisel marks from it's creator.
+--COMMAND END--
+--COMMAND START--
+TALK TO GOLECN
+304
+noitem
+Golecn
+ It ignores you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIESTESS
+311
+noitem
+Priestess
+ She greets you and warns you not to continue on this path.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIESTESS
+311
+noitem
+Priestess
+ Foolish outsider, you seek peace through the act of violence. Don't you understand it requires blood.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MYCELIAN SAGE
+323
+noitem
+Mycelian Sage
+ A strange entity who's flesh has already began to rot away. It's eye's have sunken in and it's jaw unhinged. This unholy beast craves human flesh.
+--COMMAND END--
+--COMMAND START--
+TALK TO MYCELIAN SAGE
+323
+noitem
+Mycelian Sage
+ It let's out a hiss and slowly inches towards you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MYCELIAN SAGE
+328
+noitem
+Mycelian Sage
+ Climbing along the ceiling and walls, it hunts you. A fowl stench coming from it's decaying flesh.
+--COMMAND END--
+--COMMAND START--
+TALK TO MYCELIAN SAGE
+328
+noitem
+Mycelian Sage
+ It doesn't respond.
+--COMMAND END--
+--COMMAND START--
+EXAMINE VOICES
+330
+noitem
+Voices
+ You listen and can't make out just what they are trying to say.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHADOWS
+332
+noitem
+Shadows
+ Images of people dancing and moving about carrying on with conversations as if they were still here.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ADVENTURER
+344
+noitem
+Adventurer
+ A tired old soul that appears to be lost within this place. They attempt to stay awake weary of letting themselves fall asleep here.
+--COMMAND END--
+--COMMAND START--
+TALK TO ADVENTURER
+344
+noitem
+Adventurer
+ The shadows, they keep me from sleeping. I'm being tortured by them.
+--COMMAND END--
+--COMMAND START--
+THE SHADOWS
+344
+noitem
+Adventurer
+ Their the spirits of those who once lived here. They don't know their dead or maybe its us who are dead. I can't sleep, i'm doomed.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MERMAN
+357
+noitem
+Merman
+ It's a fowl beast half man and half fish. It's lingers about in the distance, yearning to feast on your flesh.
+--COMMAND END--
+--COMMAND START--
+TALK TO MERMAN
+357
+noitem
+Merman
+ It lays out a hiss and shows it's teeth.
+--COMMAND END--
+--COMMAND START--
+EXAMINE VINES
+361
+noitem
+Vines
+ They are translucent and move about as if alive.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ADVENTURER
+361
+noitem
+Adventurer
+ Clad in weathered, tattered clothes, the adventurer leans against the wall, exhausted and barely conscious. Weeks of wandering have left them gaunt and desperate, their eyes hollow from the absence of sunlight.
+--COMMAND END--
+--COMMAND START--
+TALK TO ADVENTURER
+361
+noitem
+Adventurer
+ It's over for me, they mutter weakly. I can't go on. I've been lost here for what feels like a lifetime. Every turn leads nowhere... there's a portal ahead, but heed my warning-leave it be. Get out while you still can.
+--COMMAND END--
+--COMMAND START--
+PORTAL
+361
+noitem
+Adventurer
+ A mysterious gateway stands ahead, its swirling depths an invitation into the unknown. No one knows what lies beyond-only that those who enter seldom return.
+--COMMAND END--
+--COMMAND START--
+EXAMINE AUTOMATION GUARDIAN
+394
+noitem
+Automation Guardian
+ A sleek, statue-like figure, silver in color, with facial features carved to resemble those of a human.
+--COMMAND END--
+--COMMAND START--
+TALK TO AUTOMATION GUARDIAN
+394
+noitem
+Automation Guardian 
+ It doesn't respond, but you hear the faint sound of gears turning within its body.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FACELESS ENTITY
+399
+noitem
+Faceless Entity
+ An ancient being, as old as this place, crafted by the hands of those who built the clock to ensure its maintenance.
+--COMMAND END--
+--COMMAND START--
+TALK TO FACELESS ENTITY
+399
+noitem
+Faceless Entity
+ It doesn't utter a word.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SPIRIT
+404
+noitem
+Spirit
+ A tormented apparition, floating in a state of unbearable pain and terror, fading in and out of existence.
+--COMMAND END--
+--COMMAND START--
+TALK TO SPIRIT
+404
+noitem
+Spirit
+ Leave before it's too late.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOODSMAN
+409
+noitem
+Woodsman
+ A rugged figure clad in clothing designed to blend with the forest, a survivor who knows the land like the back of his hand.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOODSMAN
+409
+noitem
+Woodsman
+ I see we have another one for the slaughter. But don't let me stop you-you'll find out soon enough.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GOBLIN
+412
+noitem
+Goblin
+ A twisted, mutated creature with glowing eyes and the faint stench of death trailing behind it.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GHOUL
+415
+noitem
+Ghoul
+ Its flesh rots off its bones as it hisses menacingly, clad in the decayed uniform of the King's Guard.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FACELESS ENTITY
+427
+noitem
+Faceless Entity
+ It moves with an unsettling aura of shifting light, existing in a state between the realms of the living and the dead.
+--COMMAND END--
+--COMMAND START--
+TALK TO FACELESS ENTITY
+427
+noitem
+Faceless Entity
+ It ignores you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GHOST
+430
+noitem
+Ghost
+ A spectral figure from another realm, standing in scorched armor that bears the marks of an unknown fire.
+--COMMAND END--
+--COMMAND START--
+LISTEN TO VOICE
+437
+noitem
+Voice
+ You hear muffled words-someone pleading desperately for their life.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRISONER
+486
+noitem
+Prisoner
+ Dressed in tattered rags and caked in filth, the prisoner stares at you in shock. You are the first person he has seen in years.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRISONER
+486
+noitem
+Prisoner
+ He attempts to speak, but his words are silenced-he has no tongue.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TOAD
+500
+noitem
+Toad
+ A monstrous toad looms before you, its slimy, water-slicked skin glistening in the dim light. Blood-red eyes glare at you, and a foul stench hangs heavy in the air. It lets out a guttural, hissing croak that chills you to the bone.
+--COMMAND END--
+--COMMAND START--
+TALK TO TOAD
+500
+noitem
+Toad
+ The creature doesn't respond, its unblinking gaze fixed on you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HERMIT
+509
+noitem
+Hermit
+ A weary, weathered soul sits before you, draped in patched-together rags. His eyes, clouded with age and suspicion, linger on you with a mix of confusion and curiosity.
+--COMMAND END--
+--COMMAND START--
+TALK TO HERMIT
+509
+noitem
+Hermit
+ Another fool drawn by the call of the swamp? So, the great Ghurvalis beckons yet another believer.
+--COMMAND END--
+--COMMAND START--
+GHURVALIS
+509
+noitem
+Hermit
+ Ah, yes. He dwells within the swamp, and his children guard me. Have you seen them, stranger?
+--COMMAND END--
+--COMMAND START--
+CHILDREN
+509
+noitem
+Hermit
+ The toads, you fool! They are his sacred offspring. I tend to them for the Lord... or rather, for Lerv.
+--COMMAND END--
+--COMMAND START--
+LERV
+509
+noitem
+Hermit
+ Lerv is the Speaker for the Lord. But he's been gone far too long. If you see him on your journey, tell him I must speak with him at once. It's urgent.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ROBED FIGURE
+529
+noitem
+Robed Figure
+ A strange being stands before you, cloaked in a tattered black robe that seems nearly as ancient as time itself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETAL REMAINS
+531
+noitem
+Skeletal Remains
+ A pile of bones lies in a forlorn heap, their clothing reduced to little more than decayed rags.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETAL REMAINS
+537
+noitem
+Skeletal Remains
+ A thin layer of dust blankets the skeletal remains. Whatever transpired here remains a grim and silent mystery.
+--COMMAND END--
+--COMMAND START--
+EXAMINE COCOON
+539
+noitem
+Cocoon
+ The cocoon is tightly woven, radiating an intense heat reminiscent of an oven. Faint movements from within suggest something is trapped inside.
+--COMMAND END--
+--COMMAND START--
+TOUCH COCOON
+539
+noitem
+Cocoon
+ You decide against it; the cocoon is far too hot to handle.
+--COMMAND END--
+--COMMAND START--
+OPEN COCOON
+539
+noitem
+Cocoon
+ Summoning your strength, you slash the cocoon open with your sword. A grotesque gushing sound fills the air as its watery contents spill onto the ground.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CONTENTS
+539
+noitem
+Cocoon
+ A horrifying mixture of bones, bile, and partially melted flesh pools at your feet. The sight churns your stomach.
+--COMMAND END--
+--COMMAND START--
+EXAMINE COCOONS
+545
+noitem
+Cocoons
+ Several cocoons hang closely together, their contents shifting ever so slightly, as though alive.
+--COMMAND END--
+--COMMAND START--
+OPEN CACOONS
+545
+noitem
+Cacoons
+ Best not to do that. You wouldn't want whatever is inside spilling out onto the ground.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BODY
+548
+noitem
+Body
+ The desiccated remains of an unfortunate soul lie here, their skin stretched tight and brittle, revealing little more than a husk drained of life.
+--COMMAND END--
+--COMMAND START--
+EXAINE PRIEST
+550
+noitem
+Priest
+ The priest is clad in a makeshift holy robe, pieced together from scraps of clothing scavenged from the surrounding wasteland.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIEST
+550
+noitem
+Priest
+ Ah, a new soul, a seeker of the Arach. Come closer and hear the word of truth.
+--COMMAND END--
+--COMMAND START--
+ARACH
+550
+noitem
+Priest
+ Yes, the great creator. It craves not the wealth of material things but the devotion of the mind. For generations, we have worshipped in this sacred place. Now, I am the last... though I believe there may still be others. I have prepared a shrine just beyond this room. You may gaze upon our God with your own eyes.
+--COMMAND END--
+--COMMAND START--
+GOD
+550
+noitem
+Priest
+ Yes, the creator of all-a being who grants life and takes it away. It awaits your arrival.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STREAM
+693
+noitem
+Stream
+ A shallow stream rushes over a bed of smooth rocks and silt, its clear waters glinting in the light.
+--COMMAND END--
+--COMMAND START--
+DRINK FROM STREAM
+693
+noitem
+Stream
+ You cup your hands and drink from the fresh, cold water, its crispness invigorating your senses.
+--COMMAND END--
+--COMMAND START--
+EXAMINE APPRENTICE
+704
+noitem
+Apprentice
+ Dressed in a flowing black robe, she greets you with a warm smile. Yet, her eyes betray something deeper-secrets, perhaps, or a touch of doubt.
+--COMMAND END--
+--COMMAND START--
+TALK TO APPRENTICE
+704
+noitem
+Apprentice
+ You came. We were starting to doubt when-or if-you would arrive. 
+--COMMAND END--
+--COMMAND START--
+LOOKOUT WINDOW
+708
+noitem
+Window
+ You gaze out into the endless expanse of the unknown. The stars shimmer and dance across the sky, almost as if alive, whispering secrets of distant realms.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SPECTER
+709
+noitem
+Specter
+ An ethereal figure drifts about the room, its indistinct form gesturing as though engaged in conversation with an unseen companion.
+--COMMAND END--
+--COMMAND START--
+TALK TO SPECTER
+709
+noitem
+Specter
+ It pays you no mind, continuing its ghostly dialogue as if you weren't even there.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MALTHERA
+718
+noitem
+Malthera
+ Draped in flowing black garments and shrouded in swirling mist, Malthera stands before you. Her face ripples and shifts, as though she is struggling to maintain an illusion of humanity.
+--COMMAND END--
+--COMMAND START--
+TALK TO MALTHERA
+718
+noitem
+Malthera
+ You are Drakhan... champion of the King, savior of Oathmoor, and seeker of destiny. But I am afraid your journey ends here. For you see, I am not Malthera but Vaelthoryn.
+--COMMAND END--
+--COMMAND START--
+VAELTHORYN
+718
+noitem
+Vaelthoryn
+ With a sinister grin, Malthera's form begins to twist and contort, revealing her true nature. Foolish mortal! You will not survive beyond this point. Suddenly, with a deafening roar, Vaelthoryn unleashes a torrent of flames from its gaping maw. Great wings unfurl, stirring the mist into chaos, as the monstrous figure takes flight, circling the room with menacing intent.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHEEP
+722
+noitem
+Sheep
+ A flock of innocent sheep grazing peacefully on the lush grass.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOMAN
+724
+noitem
+Woman
+ A weary soul dressed in a vibrant, colorful outfit that harmonizes with the surroundings.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOMAN
+724
+noitem
+Woman
+ We need to speak. A dark force is following you, and you must consult the Priest. 
+--COMMAND END--
+--COMMAND START--
+PRIEST
+724
+noitem
+Woman
+ He resides at the Temple, south of the valley. 
+--COMMAND END--
+--COMMAND START--
+EXAMINE TRAVELERS
+727
+noitem
+Travelers
+ A cheerful group of wanderers, wearing whatever they've managed to gather, sit around a campfire sharing stories.
+--COMMAND END--
+--COMMAND START--
+TALK TO TRAVELERS
+727
+noitem
+Travelers
+ The leader steps forward and speaks: We mean no harm, traveler. We are but miners, seeking our fortune. 
+--COMMAND END--
+--COMMAND START--
+MINERS
+727
+noitem
+Woman
+ Yes, we mine for green ore. 
+--COMMAND END--
+--COMMAND START--
+GREEN ORE
+727
+noitem
+Woman
+ A precious resource that fuels the world. It brings life to the fields, vitality to the river's fish, and warmth to the fires.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MERCHANTS
+730
+noitem
+Merchants
+ Exhausted traders working tirelessly to sell their wares to an ever-enthusiastic crowd.
+--COMMAND END--
+--COMMAND START--
+EXAMINE COWS
+732
+noitem
+Cows
+ Black-and-brown-spotted cows graze contentedly, keeping to themselves and enjoying their quiet lives.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINER
+758
+noitem
+Miner
+ A tired, overworked soul lost in thought, focused entirely on his labor.
+--COMMAND END--
+--COMMAND START--
+TALK TO MINER
+758
+noitem
+Miner
+ Go away, adventurer. I have no time to gossip.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINERS
+764
+noitem
+Miners
+ A group of miners chips away at the rock, their grunts and the rhythmic clinking of pickaxes filling the air.
+--COMMAND END--
+--COMMAND START--
+TALK TO MINERS
+764
+noitem
+Miners
+ They ignore you, consumed by their work.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIESTESS
+768
+noitem
+Priestess
+ She is dressed in the holy garments of her faith. Young and serene, she seems almost out of place in this harsh and unforgiving world.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIESTESS
+768
+noitem
+Priestess
+ Adventurer, what brings you to this place? Are you lost? Do you seek guidance?
+--COMMAND END--
+--COMMAND START--
+LOST
+768
+noitem
+Priestess
+ You are in the Glowroot Mine, within a hall of worship. I am Priestess Eryndra Velisaryn, a humble seeker of holy knowledge.
+--COMMAND END--
+--COMMAND START--
+GUIDANCE
+768
+noitem
+Priestess
+ If you seek the wisdom of the gods, journey south to the Temple of Knowledge.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINERS
+770
+noitem
+Miners
+ A collection of weary miners labor relentlessly, scraping out a meager existence from the earth's depths.
+--COMMAND END--
+--COMMAND START--
+TALK TO MINERS
+770
+noitem
+Miners
+ They pay you no mind, wholly absorbed in their toil.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MECHANICAL BEHEMOTH
+797
+noitem
+Mechanical Behemoth
+ A towering figure resembling a statue, yet forged entirely of armor. Its glowing orange eyes burn with an intense light as steam hisses from its joints. The furnace within its chest emits a sound like a tortured, heavy scream, filling the air with an unsettling resonance.
+--COMMAND END--
+--COMMAND START--
+TALK TO MECHANICAL BEHEMOTH
+797
+noitem
+Mechanical Behemoth
+ The behemoth responds with the grating noise of rusted metal gears grinding against each other.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GREEN LIGHT
+800
+noitem
+Green Light
+ A flickering green light dances through the air, moving with an almost sentient grace, as though it were alive.
+--COMMAND END--
+--COMMAND START--
+TALK TO GREEN LIGHT
+800
+noitem
+Green Light
+ Not now, Adventurer. I am seeking the knowledge of the ancients.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KEEPER OF KNOWLEDGE
+804
+noitem
+Keeper Of Knowledge
+ Before you stands a being that resembles a person, yet it is entirely composed of radiant light. The figure flickers, unstable, as if it could fade out of existence at any moment.
+--COMMAND END--
+--COMMAND START--
+TALK TO KEEPER OF KNOWLEDGE
+804
+noitem
+Keeper Of Knowledge
+ Yes, Adventurer, I have waited several lifetimes for someone to arrive. I am the Keeper of Knowledge, and I seek the Key.
+--COMMAND END--
+--COMMAND START--
+KEY
+804
+noitem
+Keeper Of Knowledge
+ Yes, the Key, Custodian.
+--COMMAND END--
+--COMMAND START--
+CUSTODIAN
+804
+noitem
+Keeper Of Knowledge
+ The one who holds the Key wields control over the knowledge.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BODY
+834
+noitem
+Body
+ The mangled remains of a poor lost soul lie before you. Whoever did this is truly a monster.
+--COMMAND END--
+--COMMAND START--
+LISTEN TO CONVERSATION
+835
+noitem
+Conversation
+ You listen closely, and for a moment, you can hear someone whispering about your arrival within their holy sanctuary.
+--COMMAND END--
+--COMMAND START--
+LISTEN TO CONVERSATION
+841
+noitem
+Conversation
+ Member 1: The dawn of the new age is upon us, Grayb. Rumor has it the Amulet of Whispers is here, and the wizard needs it for the portal. Member 2: The wizard? That fool. It doesn't exist-it's a fool's dream. 
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOAKED FIGURE
+843
+noitem
+Cloaked Figure
+ Dressed in a black robe, their face is obscured, and they exist somewhere between faith and reality, shrouded in mystery.
+--COMMAND END--
+--COMMAND START--
+TALK TO CLOAKED FIGURE
+843
+noitem
+Cloaked Figure
+ They ignore you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOAKED FIGURE
+850
+noitem
+Cloaked Figure
+ Dressed in a black robe, a foul odor wafts off of them. The stench of death is unmistakable.
+--COMMAND END--
+--COMMAND START--
+TALK TO CLOAKED FIGURE
+850
+noitem
+Cloaked Figure
+ They ignore you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SPIDER
+855
+noitem
+Spider
+ A massive beast the size of a man hangs from its web. Its body is white, a stark contrast to the dark realm it inhabits. Its eight eyes glint in the light of your lantern, and it emits an eerie hiss, as if it yearns to feast upon you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BATS
+858
+noitem
+Bats
+ Large, winged creatures flit around you, their cries echoing through the shadows. They appear capable of carrying you away but, for now, seem to leave you alone.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FAMILY
+865
+noitem
+Family
+ A family resides within this chaotic realm. A mother, father, and daughter sit around a table, their expressions vacant. They appear trapped in a dreamlike trance.
+--COMMAND END--
+--COMMAND START--
+TALK TO FAMILY
+865
+noitem
+Family
+ They seem unable to move or speak, locked in their trance-like state.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WIZARD
+867
+noitem
+Wizard
+ The wizard wears a tattered brown cloak, his face weathered from years of magic that have taken a toll on his body. He looks frail, as though on the brink of death, yet his eyes burn with a desperate hope to unlock the secrets of the unknown realm of magic.
+--COMMAND END--
+--COMMAND START--
+TALK TO WIZARD
+867
+noitem
+Wizard
+ What are you doing here? A stranger? An outsider? Seeking what isn't yours? Foolish adventurer. You will not take the Amulet of Whispers from me. 
+--COMMAND END--
+--COMMAND START--
+AMULET OF WHISPERS
+867
+noitem
+Wizard
+ Before you can react, the wizard leaps back, preparing to attack. In his haste, however, he fumbles and fails to cast his spell.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHADOWY FIGURE
+879
+noitem
+Shadowy Figure
+ A featureless being, shrouded in mystery. It seems to be nothing more than the spirit of an unknown presence, drifting silently through this forsaken place.
+--COMMAND END--
+--COMMAND START--
+TALK TO SHADOWY FIGURE
+879
+noitem
+Shadowy Figure
+ The figure ignores you, continuing its enigmatic journey without acknowledgment.
+--COMMAND END--
+--COMMAND START--
+LISTEN TO VOICE
+890
+noitem
+Voice
+ A disembodied voice echoes through the air, its tone both ominous and foreboding. It warns you to stay away from the gateway, urging you to turn back before you meet a most painful end.
+--COMMAND END--
+--COMMAND START--
+EXAMINE JUDGE
+912
+noitem
+Judge
+ Clad in black robes and with a face painted ghostly white, the figure gazes down at you from their perch of authority. For a brief moment, a flicker of confusion crosses their otherwise impassive expression.
+--COMMAND END--
+--COMMAND START--
+TALK TO JUDGE
+912
+noitem
+Judge
+ ªYou are not on trial for the crimes of the land. There is no reason to prolong this conversation.ª
+--COMMAND END--
+--COMMAND START--
+EXAMINE AELIRA
+914
+noitem
+Aelira
+ She greets you with an unsettling smile, her unblinking gaze fixed firmly on yours. Her attire is strange, almost jarring in its unsuitability for this place, adding to the air of unease she exudes.
+--COMMAND END--
+--COMMAND START--
+TALK TO AELIRA
+914
+noitem
+Aelira
+ You're not from around here, are you? I saw you once before... in the village, before you met with the King. You've come far, haven't you? But let me tell you something, you won't stop her. You can't stop her. Oh no... no, you won't. 
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETAL FIGURE
+923
+noitem
+Skeletal Figure
+ A pile of dust-covered bones, stripped of flesh and any remnants of clothing. Just how long have they been here?
+--COMMAND END--
+--COMMAND START--
+EXAMINE MALTHERA
+925
+noitem
+Malthera
+ Draped in flowing red, her cloak billowing as if moved by an unseen force. She stands before you, unnervingly still.
+--COMMAND END--
+--COMMAND START--
+TALK TO MALTHERA
+925
+noitem
+Malthera
+ You must not walk this path. Turn back, lest you wander the forsaken realm of the damned, before it is too late.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOMAN
+941
+noitem
+Woman
+ She stumbles through the mist, searching desperately for someone. Her skin is pale, her eyes hollow-almost devoid of life.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOMAN
+941
+noitem
+Woman
+ Edric? Have you seen my Edric?
+--COMMAND END--
+--COMMAND START--
+EDRIC
+941
+noitem
+Woman
+ Yes... he is my husband. A soldier. I'm trying to find him... Edric...
+--COMMAND END--
+--COMMAND START--
+EXAMINE SPECTATOR
+948
+noitem
+Spectator
+ Draped in fine garments untouched by labor, they stand apart-an observer, detached from the weight of reality itself.
+--COMMAND END--
+--COMMAND START--
+TALK TO SPECTATOR
+948
+noitem
+Spectator
+ Such a senseless waste. I had hoped for more... and now, what am I to do?
+--COMMAND END--
+--COMMAND START--
+EXAMINE VOICE
+969
+noitem
+Voice
+ A deep, resonant voice echoes around you, yet its source remains unseen.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ELDER
+973
+noitem
+Elder
+ Draped in a headdress and a robe fashioned from animal hide, the elder greets you with a warm smile.
+--COMMAND END--
+--COMMAND START--
+TALK TO ELDER
+973
+noitem
+Elder
+ Greetings, Adventurer. It has been foretold that an outsider would come to our village. Please respect our ways and customs-we must live as one.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BIRD
+980
+noitem
+Bird
+ A striking red bird perches nearby, scanning the ground intently as it searches for food.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LABORER
+986
+noitem
+Laborer
+ Covered in a fine layer of dust, the laborer works tirelessly, focused entirely on the task at hand.
+--COMMAND END--
+--COMMAND START--
+TALK TO LABORER
+986
+noitem
+Laborer
+ He ignores you and continues with his work.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FOREMAN
+988
+noitem
+Foreman
+ Dressed in finely made clothes, the foreman wears an expression of exhaustion. His gaze drifts past you, lost in thought.
+--COMMAND END--
+--COMMAND START--
+TALK TO FOREMAN
+988
+noitem
+Foreman
+ Can't you see I'm busy? I must ensure we have enough wood prepared for the winter. The temple must be built before it's too late.
+--COMMAND END--
+--COMMAND START--
+TEMPLE
+988
+noitem
+Foreman
+ The temple must be completed to activate the doorway. Only then can we restore the world to what it was before everything failed us.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WORKERS
+993
+noitem
+Workers
+ A group of workers moves steadily through their daily tasks. Clad in simple, handmade brown garments, they carry on with quiet determination.
+--COMMAND END--
+--COMMAND START--
+TALK TO WORKERS
+993
+noitem
+Workers
+ Sorry, Adventurer, we don't have time to talk. There is much work to be done.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KEEPER OF THE GUILD
+1020
+noitem
+Keeper of the Guild
+ Shrouded in a flowing black robe, his face obscured by shadow, the Keeper of the Guild regards you with surprise, as if your presence here is wholly unexpected.
+--COMMAND END--
+--COMMAND START--
+TALK TO KEEPER OF THE GUILD
+1020
+noitem
+Keeper of the Guild
+ An outsider? Have you been spoken to by the voice of Mirethis?
+--COMMAND END--
+--COMMAND START--
+MIRETHIS
+1012
+noitem
+Keeper of the Guild
+ The Weeping Mother. She grants protection to those who seek it-through offerings of silver and flesh. You have heard her voice, haven't you?
+--COMMAND END--
+--COMMAND START--
+YES
+1012
+noitem
+Keeper of the Guild
+ Good. Since the Mother has called you here, you must make an offering at her tomb, far to the south, buried deep in the ice. Go now.
+--COMMAND END--
+--COMMAND START--
+NO
+1012
+noitem
+Keeper of the Guild
+ Then leave. Leave before the others arrive... or they will tear you apart.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD WOMAN
+1034
+noitem
+Woman
+ Dressed in patched-together clothing made from whatever she could find, her face is weathered, each wrinkle a mark of every battle lost in her world.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD WOMAN
+1034
+noitem
+Woman
+ An outsider? How can this be? We have been doomed to stay here until she has forgiven us.
+--COMMAND END--
+--COMMAND START--
+FORGIVEN US
+1034
+noitem
+Woman
+ Yes, we, all who remain from this forsaken land. Those who fought in the Great War and were captured-our families-were sent here to die. A reminder of what unwavering dedication can cost.
+--COMMAND END--
+--COMMAND START--
+GREAT WAR
+1034
+noitem
+Woman
+ It was a war born of marriage and fought with the innocent. It has been so cold here lately. Please, does Oathmore still stand?
+--COMMAND END--
+--COMMAND START--
+YES
+1034
+noitem
+Woman
+ Good. My family is originally from there. Now go. I'm tired and need my rest.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FROZEN FIGURE
+1038
+noitem
+Frozen Figure
+ The frozen bodies of those unfortunate enough to die while standing. They remain as a grim testament to the evil forces that haunt this land.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MONK
+1045
+noitem
+Monk
+ A weary old man, draped in clothing scavenged from the dead. His exhaustion is not just of the body, but of the soul, worn down by years spent in this frozen tomb of suffering.
+--COMMAND END--
+--COMMAND START--
+TALK TO MONK
+1045
+noitem
+Monk
+ We have not had a visitor in this village for quite some time. Since I was a child, I believed everything beyond our walls had been erased by that evil witch. We have lived in fear of what lurks beyond the ice. Thank you for giving me hope, but it is too late for me.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CORPSE
+1052
+noitem
+Corpse
+ Its flesh is crudely stitched together with needle and thread. Its sunken black eyes stare lifelessly, a stench of decay clinging to its being.
+--COMMAND END--
+--COMMAND START--
+TALK TO CORPSE
+1052
+noitem
+Corpse
+ Its mouth moves slowly, as if by muscle memory-an imitation of humanity long lost.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MECHANIZED WALKER
+1059
+noitem
+Mechanized Walker
+ A bizarre fusion of metal and flesh, this automaton aimlessly roams the area, performing menial tasks for a faceless master.
+--COMMAND END--
+--COMMAND START--
+TALK TO MECHANIZED WALKER
+1059
+noitem
+Mechanized Walker
+ It does not respond. The only sounds are the hiss of steam vents and the grinding of metal joints.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WORKERS
+1062
+noitem
+Workers
+ Gaunt and lifeless, these weary souls have not seen the sun in what feels like an eternity. Trapped in an endless cycle, they labor without hope.
+--COMMAND END--
+--COMMAND START--
+TALK TO WORKERS
+1062
+noitem
+Workers
+ They ignore you-or perhaps they simply no longer hear.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+1066
+noitem
+Guard
+ Encased in plated armor, a sword resting at his hip, he watches the workers with a detached gaze.
+--COMMAND END--
+--COMMAND START--
+TALK TO GUARD
+1066
+noitem
+Guard
+ I understand you are wanted in The Aurelic Foundry. Go there now and meet with the Archmechanist.
+--COMMAND END--
+--COMMAND START--
+THE AURELIC FOUNDRY
+1066
+noitem
+Guard
+ The beating heart of the machine.
+--COMMAND END--
+--COMMAND START--
+ARCHMECHANIST
+1066
+noitem
+Guard
+ Go to her and find out.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WORKERS
+1071
+noitem
+Workers
+ Dressed in tattered rags and covered in soot, they swing their pickaxes in a mindless rhythm, toiling until the day they fall.
+--COMMAND END--
+--COMMAND START--
+TALK TO WORKERS
+1071
+noitem
+Workers
+ They do not respond.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+1077
+noitem
+Guard
+ Clad in worn, dented armor, she regards you with a weary expression. A sword dangles from her hip, though she makes no move to draw it.
+--COMMAND END--
+--COMMAND START--
+TALK TO GUARD
+1077
+noitem
+Guard
+ Go speak with the Archmechanist. She is expecting you.
+--COMMAND END--
+--COMMAND START--
+ARCHMECHANIST
+1077
+noitem
+Guard
+ I'm not at liberty to discuss her. Find out for yourself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MECHANIZED WORKERS
+1085
+noitem
+Mechanized Workers
+ Cloaked in soot, they trudge forward, each step producing the grating sound of metal grinding against metal.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MONEKS
+1092
+noitem
+Monks
+ Deep in trance, they kneel in prayer, their voices resonant and unyielding, breathing life into this solemn place. Draped in heavy robes, their faces remain hidden, their identities lost to devotion.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MECHANIZED WALKERS
+1100
+noitem
+Mechanized Walkers
+ These towering, spider-like constructs, forged from iron and powered by steam, toil away relentlessly, stripping stone from the ore with mechanical precision.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOAKED FIGURE
+1101
+noitem
+Cloaked Figure
+ A lone figure stands, lost in thought-perhaps the keeper of these strange creations. They wear a deep red robe and remain utterly motionless, as if they, too, are one of the machines.
+--COMMAND END--
+--COMMAND START--
+TALK TO CLOAKED FIGURE
+1101
+noitem
+Cloaked Figure
+ A faint hiss escapes from within the folds of the robe, the only response.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ARCHMECHANIST
+1107
+noitem
+Archmechanist
+ Amidst an array of tools and artifacts, the Archmechanist is consumed by his research. He barely acknowledges your presence, his mind occupied with the mysteries of this forgotten place.
+--COMMAND END--
+--COMMAND START--
+TALK TO ARCHMECHANIST
+1107
+noitem
+Archmechanist
+ You have seen too much, outsider. Leave now, or I shall lay you in thy grave.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BROKEN BODIES
+1111
+noitem
+Broken Bodies
+ The remains of fallen workers litter the ground-bones shattered, their lifeless faces frozen in silent agony.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MONK
+1112
+noitem
+Monk
+ Battered and broken, this lifeless husk is all that remains-a heap devoid of spirit, abandoned to the darkness.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KING
+1122
+noitem
+King
+ Draped in only the finest garments, the king greets you with a joyful expression.
+--COMMAND END--
+--COMMAND START--
+TALK TO KING
+1122
+noitem
+King
+ By the stars of Oathmore, it is good to see you again, Drakhan. You have reached the end of your journey. Now, speak the word, and you shall be rewarded.
+--COMMAND END--
+--COMMAND START--
+WORD
+1122
+noitem
+King
+ Yes, yes-the word, Adventurer! Speak it, and the world shall be ours.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LIFELESS BODY
+1127
+noitem
+Lifeless Body
+ The remains of a fellow adventurer lie motionless-void of life. Clad in a rusted suit of armor, they are covered in dust and draped in cobwebs, long forgotten.
+--COMMAND END--
+--COMMAND START--
+TALK TO LIFELESS BODY
+1127
+noitem
+Lifeless Body
+ She's dead.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOMAN IN BLACK
+1131
+noitem
+Woman In Black
+ She floats before you, as if controlled by an unseen force. Her hair drifts weightlessly, and her tattered peasant's clothing billows as though suspended in water. Her glowing white eyes pierce the darkness, and the very air around her hums with an intensity that sends sharp pain through your body.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOMAN IN BLACK
+1131
+noitem
+Woman In Black
+ She cackles maniacally at your foolish attempts to speak.
+--COMMAND END--
+--COMMAND START--
+EXAMINE STONE FIGURE
+1136
+noitem
+Stone Figure
+ Sculpted from a single, unbroken piece of stone, the figure moves with an uncanny human-like grace. Its face is completely featureless, yet its rigid stance leaves no doubt-it has been ordered to prevent you from proceeding.
+--COMMAND END--
+--COMMAND START--
+TALK TO STONE FIGURE
+1136
+noitem
+Woman In Black
+ It does not respond.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIEST
+1141
+noitem
+Priest
+ Dressed in a black robe, his weathered face tells a story of devotion and despair. He clings to his beliefs, a lost soul adrift in the remnants of faith.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIEST
+1141
+noitem
+Priest
+ It has been a long time since an outsider stepped into this place of worship. But soon, all lost souls will find their way back to the light.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD SOUL
+1149
+noitem
+Old Soul
+ Wandering these halls for an eternity, they seem completely devoid of humanity just a lost spirit, trapped within this labyrinth.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD SOUL
+1149
+noitem
+Old Soul
+ This used to be such a wonderful place. People lived freely, unburdened. But the darkness crept in, and now we cannot shake it.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MALTHERA
+1152
+noitem
+Malthera
+ She towers over you, dressed in flowing white. Her hair drifts as if suspended in water, and her pale skin suggests she has not seen the light of day in ages.
+--COMMAND END--
+--COMMAND START--
+TALK TO MALTHERA
+1152
+noitem
+Malthera
+ I have watched your every step, Drakhan. But you will go no further. Turn back now, or be destroyed. Heed this warning-your next step will decide your fate. I have seen many fools in my time, but none so blind as you. Deceived by those you trusted, you have stumbled into a trap of your own making, and now the price must be paid. But before I strike you down and reclaim what is rightfully mine, know this-an era of darkness is upon the world. Fate itself has foretold our meeting, and you are the last obstacle standing between me and my rightful dominion. With your fall, the King will crumble, and soon all kingdoms shall kneel before me. Prepare yourself, for death.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WORSHIPPERS
+1171
+noitem
+Worshippers
+ Draped in deep purple robes, their faces remain hidden, leaving only their hands to confirm their humanity. They chant in a language unknown to you.
+--COMMAND END--
+--COMMAND START--
+TALK TO WORSHIPPERS
+1171
+noitem
+Worshippers
+ Best not to disturb them.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WORSHIPPERS
+1172
+noitem
+Worshippers
+ Draped in deep purple robes, their faces remain hidden, leaving only their hands to confirm their humanity. They chant in a language unknown to you.
+--COMMAND END--
+--COMMAND START--
+TALK TO WORSHIPPERS
+1172
+noitem
+Worshippers
+ Best not to disturb them.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PEOPLE
+1176
+noitem
+People
+ They wear ordinary clothing and seem to be celebrating something.
+--COMMAND END--
+--COMMAND START--
+TALK TO PEOPLE
+1176
+noitem
+People
+ They appear to be in a trance and ignore you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CHEF
+1182
+noitem
+Chef
+ Dressed in a worn uniform, they are lost in deep concentration, carefully preparing their next dish.
+--COMMAND END--
+--COMMAND START--
+TALK TO CHEF
+1182
+noitem
+Chef
+ I've been working on this dish for a day now. It came to me in a dream-the perfect dish to connect body and soul. We must rebuild that bridge, or we are doomed.
+--COMMAND END--
+--COMMAND START--
+DOOMED
+1182
+noitem
+Chef
+ We are cursed. The land is cursed. Now we are lost in the darkness. Something must be done... Someone must act.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WATER FAIRY
+1214
+noitem
+Water Fairy
+ She rises from the water with an almost supernatural grace, her movements as fluid as the currents themselves. Her eyes, deep and endless black, gleam with ancient wisdom, while her pale blue skin glows softly in the moonlight. Suddenly, a blinding white light bursts forth, banishing the shadows and driving away the darkness.
+--COMMAND END--
+--COMMAND START--
+TALK TO WATER FAIRY
+1214
+noitem
+Water Fairy
+ Greetings, fair adventurer. I have awaited this moment for many tides. The darkness shall soon be vanquished, and the light shall once more reign. Take now the blessing of the Prayer of Guidance, and may it lead you upon the true path.
+--COMMAND END--
+--COMMAND START--
+PRAYER
+1214
+noitem
+Water Fairy
+ O guiding light upon the waters deep, By silver tide and starlit keep, Let not my vessel stray nor sink, But grant me wisdom, let me think. Where shadows dance and voices fade, Keep my heart unbound, unafraid. With steady hand and spirit bright, Lead me forth into the light.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SPECTRAL FIGURE
+1220
+noitem
+Spectral Figure
+ A shifting entity wanders this plane of existence, its form flickering between the faces of countless souls-some familiar, some lost to time.
+--COMMAND END--
+--COMMAND START--
+TALK TO SPECTRAL FIGURE
+1220
+noitem
+Spectral Figure
+ In a chorus of voices, gathered from those who may or may not have ever existed, it urges you to leave this place.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BAT
+1225
+noitem
+Bat
+ A massive creature with glowing yellow eyes and razor-sharp teeth cuts through the air, hunting for its next meal.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DISEMBODIED HEAD
+1229
+noitem
+Disembodied Head
+ It drifts weightlessly, its translucent form barely tethered to this world. Sunken eyes stare vacantly as it releases a scream that chills you to the core.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DISFIGURED GHOUL
+1286
+noitem
+Disfigured Ghoul
+ Its limbs are twisted, its skin as gray as thick fog. Its eyes remain hidden, and its tattered rags hang loosely, held together by crude stitches.
+--COMMAND END--
+--COMMAND START--
+TALK TO DISFIGURED GHOUL
+1286
+noitem
+Disfigured Ghoul
+ The ghoul struggles to form a word, but before it can, the distant toll of a bell rings out-its attention shifts instantly, as if compelled by an unseen force.
+--COMMAND END--
+--COMMAND START--
+EXAMINE THE VENTUREWEAVER
+1314
+noitem
+The Ventureweaver
+ He sits behind an old desk, his fingers moving across the keys of an even older laptop. Lines of forgotten code flicker on the dim screen-the very foundation of the world you now stand in.
+--COMMAND END--
+--COMMAND START--
+TALK TO THE VENTUREWEAVER
+1314
+noitem
+The Ventureweaver
+ Greetings, adventurer. You have arrived. You chose not to take the life of Malthera, the witch. In doing so, you have made the honorable choice. And for that, I offer you a piece of wisdom. Patience is the virtue of those who seek the full story before drawing their blade. The greatest heroes are not judged by the speed of their sword, but by the depth of their understanding. To destroy is simple-to listen, to learn, to unveil the hidden truths that is the path of those who shape destiny itself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MECHANICAL ARM
+1327
+noitem
+Mechanical Arm
+ Strange, crudely assembled arms extend from the walls-fashioned from jagged, mismatched metal, their design a poor imitation of human limbs.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MACHINIST
+1340
+noitem
+Machinist
+ Draped in gray, his long hair unkempt, the machinist bears the weary look of a man who has seen too much. Standing atop a crate, he addresses the restless crowd, his voice carrying the weight of revolution.
+--COMMAND END--
+--COMMAND START--
+LISTEN
+1340
+noitem
+Machinist
+ We must hold those who govern us to a higher standard, and when they fail us, they must be punished accordingly.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLEANING WOMAN
+1344
+noitem
+Cleaning Woman
+ She moves in erratic, twitching motions, each step stiff and unnatural. Half of her face is shattered, exposing a mechanical visage beneath the ruined flesh.
+--COMMAND END--
+--COMMAND START--
+TALK TO CLEANING WOMAN
+1344
+noitem
+Cleaning Woman
+ I must be going... I must be cleaning...
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOMAN
+1349
+noitem
+Woman
+ She dances with an eerie grace, lost in a world of her own-oblivious to your presence, as if reality itself no longer binds her.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOMAN
+1349
+noitem
+Woman
+ She does not acknowledge you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD WOMAN
+1350
+noitem
+Old Woman
+ Wrapped in a tattered blanket, she rocks gently in her chair, her aged face illuminated by the flickering light of the hut. She has spent countless days here, simply enduring. At the sight of you, her expression brightens.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD WOMAN
+1350
+noitem
+Old Woman
+ Well now, I never expected to see another soul. At least... a real soul.
+--COMMAND END--
+--COMMAND START--
+REAL SOUL
+1350
+noitem
+Old Woman
+ You are human, yes? We may look it, but in truth, we are nothing more than gears within metal shells. I have never known the taste of food... a shame, I think.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BUTCHER
+1359
+noitem
+Butcher
+ Wearing a bloodstained leather apron, the butcher waves a massive knife through the air with unsettling precision.
+--COMMAND END--
+--COMMAND START--
+TALK TO BUTCHER
+1359
+noitem
+Butcher
+ I must ensure the meat never stops. I'm too busy right now to talk-come back later.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DRUNKEN COOK
+1365
+noitem
+Drunken Cook
+ His uniform is disheveled, his hair an unkempt mess. He clutches a wooden cup sloshing with beer, spilling its contents onto the table as he bellows a tune from a long-forgotten bard.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FIGURE
+1375
+noitem
+Figure
+ A strange individual stands before you. Something about them feels... off. The foul stench of death clings to the air. She seems almost surprised to see you.
+--COMMAND END--
+--COMMAND START--
+TALK TO FIGURE
+1375
+noitem
+Figure
+ She simply stands there, breathing heavily, as if preparing for battle.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RATCATCHER
+1390
+noitem
+Ratcatcher
+ Draped in tattered rags, their face hidden in shadow, the Ratcatcher seems almost startled by your presence.
+--COMMAND END--
+--COMMAND START--
+TALK TO RATCATCHER
+1390
+noitem
+Ratcatcher
+ You're the first person I've seen in a long time. I thought I was the only one left wandering this wretched place.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MURGLOTH
+1392
+noitem
+Murgloth
+ A strange, almost serpent-like creature, the Murgloth has claimed this place as its own-and it has no intention of sharing.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FIGURE
+1397
+noitem
+Figure
+ Sunken yellow eyes peer at you from a grotesque, misshapen skull, their gaze unblinking and unnerving.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETON WARRIOR
+1398
+noitem
+Skeleton Warrior
+ Clad in ancient, rusted battle armor and gripping a timeworn sword, the Skeleton Warrior moves with unnatural speed, as if possessed by a vengeful spirit.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MARROWKRAKE
+1401
+noitem
+Marrowkrake
+ A massive sea serpent clad in bone-like armor, its eyeless visage betrays no emotion as it slithers through the ruins, searching for its next meal-you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE VERDANT HUSK
+1414
+noitem
+Verdant Husk
+ A strange, godless creature shrouded in moss, its form barely resembling what it once was. Its muffled screams are the last remnants of its lost humanity.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SELITH
+1420
+noitem
+Selith
+ She stands before you, her hair flowing as if caught in an unseen breeze. It is clear-she has been waiting for you in this forsaken place.
+--COMMAND END--
+--COMMAND START--
+TALK TO SELITH
+1420
+noitem
+Selith
+ It has been ages since your return. Head north to speak with Galyn.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SLIME
+1431
+noitem
+Slime
+ A shifting, blue mass paces back and forth, trapped in an endless loop-as if caught between worlds.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RAVEN
+1437
+noitem
+Raven
+ The raven's eyes gleam with unnatural malice. It moves erratically, as if possessed by a dark force.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MECHANICAL ARM
+1327
+noitem
+Mechanical Arm
+ Strange, crudely assembled arms extend from the walls-fashioned from jagged, mismatched metal, their design a poor imitation of human limbs.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MACHINIST
+1340
+noitem
+Machinist
+ Draped in gray, his long hair unkempt, the machinist bears the weary look of a man who has seen too much. Standing atop a crate, he addresses the restless crowd, his voice carrying the weight of revolution.
+--COMMAND END--
+--COMMAND START--
+LISTEN
+1340
+noitem
+Machinist
+ We must hold those who govern us to a higher standard, and when they fail us, they must be punished accordingly.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLEANING WOMAN
+1344
+noitem
+Cleaning Woman
+ She moves in erratic, twitching motions, each step stiff and unnatural. Half of her face is shattered, exposing a mechanical visage beneath the ruined flesh.
+--COMMAND END--
+--COMMAND START--
+TALK TO CLEANING WOMAN
+1344
+noitem
+Cleaning Woman
+ I must be going... I must be cleaning...
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOMAN
+1349
+noitem
+Woman
+ She dances with an eerie grace, lost in a world of her own-oblivious to your presence, as if reality itself no longer binds her.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOMAN
+1349
+noitem
+Woman
+ She does not acknowledge you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD WOMAN
+1350
+noitem
+Old Woman
+ Wrapped in a tattered blanket, she rocks gently in her chair, her aged face illuminated by the flickering light of the hut. She has spent countless days here, simply enduring. At the sight of you, her expression brightens.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD WOMAN
+1350
+noitem
+Old Woman
+ Well now, I never expected to see another soul. At least... a real soul.
+--COMMAND END--
+--COMMAND START--
+REAL SOUL
+1350
+noitem
+Old Woman
+ You are human, yes? We may look it, but in truth, we are nothing more than gears within metal shells. I have never known the taste of food... a shame, I think.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BUTCHER
+1359
+noitem
+Butcher
+ Wearing a bloodstained leather apron, the butcher waves a massive knife through the air with unsettling precision.
+--COMMAND END--
+--COMMAND START--
+TALK TO BUTCHER
+1359
+noitem
+Butcher
+ I must ensure the meat never stops. I'm too busy right now to talk-come back later.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DRUNKEN COOK
+1365
+noitem
+Drunken Cook
+ His uniform is disheveled, his hair an unkempt mess. He clutches a wooden cup sloshing with beer, spilling its contents onto the table as he bellows a tune from a long-forgotten bard.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FIGURE
+1375
+noitem
+Figure
+ A strange individual stands before you. Something about them feels... off. The foul stench of death clings to the air. She seems almost surprised to see you.
+--COMMAND END--
+--COMMAND START--
+TALK TO FIGURE
+1375
+noitem
+Figure
+ She simply stands there, breathing heavily, as if preparing for battle.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RATCATCHER
+1390
+noitem
+Ratcatcher
+ Draped in tattered rags, their face hidden in shadow, the Ratcatcher seems almost startled by your presence.
+--COMMAND END--
+--COMMAND START--
+TALK TO RATCATCHER
+1390
+noitem
+Ratcatcher
+ You're the first person I've seen in a long time. I thought I was the only one left wandering this wretched place.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MURGLOTH
+1392
+noitem
+Murgloth
+ A strange, almost serpent-like creature, the Murgloth has claimed this place as its own-and it has no intention of sharing.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FIGURE
+1397
+noitem
+Figure
+ Sunken yellow eyes peer at you from a grotesque, misshapen skull, their gaze unblinking and unnerving.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETON WARRIOR
+1398
+noitem
+Skeleton Warrior
+ Clad in ancient, rusted battle armor and gripping a timeworn sword, the Skeleton Warrior moves with unnatural speed, as if possessed by a vengeful spirit.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MARROWKRAKE
+1401
+noitem
+Marrowkrake
+ A massive sea serpent clad in bone-like armor, its eyeless visage betrays no emotion as it slithers through the ruins, searching for its next meal-you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE VERDANT HUSK
+1414
+noitem
+Verdant Husk
+ A strange, godless creature shrouded in moss, its form barely resembling what it once was. Its muffled screams are the last remnants of its lost humanity.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SELITH
+1420
+noitem
+Selith
+ She stands before you, her hair flowing as if caught in an unseen breeze. It is clear-she has been waiting for you in this forsaken place.
+--COMMAND END--
+--COMMAND START--
+TALK TO SELITH
+1420
+noitem
+Selith
+ It has been ages since your return. Head north to speak with Galyn.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SLIME
+1431
+noitem
+Slime
+ A shifting, blue mass paces back and forth, trapped in an endless loop-as if caught between worlds.
+--COMMAND END--
+--COMMAND START--
+EXAMINE RAVEN
+1437
+noitem
+Raven
+ The raven's eyes gleam with unnatural malice. It moves erratically, as if possessed by a dark force.
+--COMMAND END--
+--COMMAND START--
+LISTEN
+1448
+noitem
+The Leader
+ The archway is nearly complete. We stand on the cusp of bringing forth the Dark Mother into our world. Another voice, uncertain, interrupts. Why hasn't she arrived yet? A pause. Then, a calm but resolute reply: We are sending one of the faithless to venture forth. If his sacrifice is worthy, she will come.
+--COMMAND END--
+--COMMAND START--
+EXAMINE THE LEADER
+1450
+noitem
+The Leader
+ Draped in a tattered red robe, she stands motionless. Her face is swallowed by the darkness, leaving only her hands visible-thin, deliberate, waiting.
+--COMMAND END--
+--COMMAND START--
+TALK TO THE LEADER
+1450
+noitem
+The Leader
+ Best not to draw attention to yourself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOAKED FIGURES
+1450
+noitem
+Cloaked Figured
+ Dressed in simple brown robes, they shift restlessly, barely able to contain their excitement over the news they have just received.
+--COMMAND END--
+--COMMAND START--
+TALK TO CLOAKED FIGURES
+1450
+noitem
+Cloaked Figures
+ Best not to draw attention to yourself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GODS GUARD
+1454
+noitem
+God's Guard
+ Clad in a pristine suit of golden armor, the figure stands unmoving. Its face is pale, its hollow eyes fixed forward, unseeing yet unnerving.
+--COMMAND END--
+--COMMAND START--
+TALK TO GODS GUARD
+1454
+noitem
+God's Guard
+ It just stands there in silence.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GUARD
+1465
+noitem
+Guard
+ Wearing worn leather armor, the guard grips a rope tightly, its other end bound around the wrists of a prisoner.
+--COMMAND END--
+--COMMAND START--
+TALK TO GUARD
+1465
+noitem
+Guard
+ Move along.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRISONER
+1465
+noitem
+Prisoner
+ His face is weary, the look of a man who hasn't slept in ages. His voice is quiet, yet edged with desperation.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRISONER
+1465
+noitem
+Prisoner
+ I'm being sent to lure out the Dark Mother... My family-they don't know I'm here. Please, you must tell them about me.
+--COMMAND END--
+--COMMAND START--
+DARK MOTHER
+1465
+noitem
+Prisoner
+ She is the giver of life, the bringer of light... and not real. But hey, if they hadn't caught me, I wouldn't be here.
+--COMMAND END--
+--COMMAND START--
+FAMILY
+1465
+noitem
+Prisoner
+ They live in the village of Coe.
+--COMMAND END--
+--COMMAND START--
+CAUGHT
+1465
+noitem
+Prisoner
+ They found me a few nights ago. One too many ales, and I thought it'd be funny if someone joked about the Dark Mother not being real. Next thing I knew-here I am.
+--COMMAND END--
+--COMMAND START--
+EXAMINE YOUNG WOMAN
+1475
+noitem
+Young Woman
+ She tends to her meal over a slow-burning fire, her face etched with exhaustion.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MOTHER
+1480
+noitem
+Mother
+ She gestures for you to sit by the fire, her presence a rare kindness in this forsaken place. She has been here for quite some time.
+--COMMAND END--
+--COMMAND START--
+TALK TO MOTHER
+1480
+noitem
+Mother
+ Get warm by the fire. It's always good to see a friendly face in these parts. Not many come through here-just the people from below.
+--COMMAND END--
+--COMMAND START--
+BELOW
+1480
+noitem
+Mother
+ Once, my people lived among the clouds with the gods. Now we are few. When the weather changed, the rest sought refuge in the crypt... but all they found was madness. It poisoned them, you see.
+--COMMAND END--
+--COMMAND START--
+POISONED
+1480
+noitem
+Mother
+ The gods abandoned this place for a reason. A great sickness came from it. The archway has always been the bringer of death.
+--COMMAND END--
+--COMMAND START--
+ARCHWAY
+1480
+noitem
+Mother
+ It is a gateway between worlds. It brought you here, and it must be destroyed.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HOLY MAN
+1495
+noitem
+Holy Man
+ What was once a robe of spiritual prestige now hangs in tatters, reduced to little more than rags.
+--COMMAND END--
+--COMMAND START--
+TALK TO HOLY MAN
+1495
+noitem
+Holy Man
+ The realms of the living and the dead will forever be in conflict. Heed my warning, stranger-leave this cursed place while you still can.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIESTS REMAINS
+1499
+noitem
+Priest's Remains
+ The withered husk of a priest lies here, his robes still draped over his lifeless form. A once-devout servant, now abandoned in the garden of his gods.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ELDER
+1502
+noitem
+Elder
+ She wears faded, colorful cloth, her face adorned with painted markings. Eyes closed, she sways slightly-deep in a trance.
+--COMMAND END--
+--COMMAND START--
+TALK TO ELDER
+1502
+noitem
+Elder
+ This place is steeped in unrest, -she murmurs-. The spirits cry out for peace, and I must listen... I must speak to them and guide them to rest.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PALADIN
+1531
+noitem
+Paladin
+ She has never ventured beyond this holy place, dedicating herself to the ancient teachings in order to protect them.
+--COMMAND END--
+--COMMAND START--
+TALK TO PALADIN
+1531
+noitem
+Paladin
+ Mother. Go to Mother now.
+--COMMAND END--
+--COMMAND START--
+MOTHER
+1531
+noitem
+Paladin
+ Go.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MOTHER
+1533
+noitem
+Mother
+ Draped in a handwoven cloak, her dimly glowing eyes hold the weight of a lifetime spent in isolation. She has never seen the real world.
+--COMMAND END--
+--COMMAND START--
+TALK TO MOTHER
+1533
+noitem
+Mother
+ You seek knowledge? You choose life over death, to spare one so another may speak. I know you. I know what you seek-the ultimate truth. But for that, you must speak the name of the one you seek. Head north of the crossing, and you will find your answer.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PALADIN
+1536
+noitem
+Paladin
+ Clad in blessed armor, he meets your gaze with the stern focus of a man on official duty.
+--COMMAND END--
+--COMMAND START--
+TALK TO PALADIN
+1536
+noitem
+Paladin
+ We've been under the knife for some time now. The wolves are closing in. It won't be long before the final battle begins. Leave now-I don't want you here when the carnage starts.
+--COMMAND END--
+--COMMAND START--
+EXAMINE KNIGHT
+1539
+noitem
+Knight
+ His armor, dented and scratched, has seen better days. He stands on guard, hardened by a lifetime of battle.
+--COMMAND END--
+--COMMAND START--
+TALK TO KNIGHT
+1539
+noitem
+Knight
+ You must leave this place. The darkness is upon us.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETAL FIGURE
+1551
+noitem
+Skeletal Figure
+ The remains of a lost soul-only brittle bones endure, a silent testament to their forgotten existence.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WOMAN
+1557
+noitem
+Woman
+ She drifts through a world of her own, singing softly for an audience of one.
+--COMMAND END--
+--COMMAND START--
+TALK TO WOMAN
+1557
+noitem
+Woman
+ She pays you no mind, utterly consumed by her performance.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SOLDIER
+1560
+noitem
+Soldier
+ With weary eyes and a hollow stare, he stands at the brink of desertion, his spirit worn thin.
+--COMMAND END--
+--COMMAND START--
+TALK TO SOLDIER
+1560
+noitem
+Soldier
+ He ignores you, gazing into the distance, lost in thought.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LONE FIGURE
+1567
+noitem
+Lone Figure
+ Clad in armor fashioned from the remnants of spiders, his face is concealed beneath the withered husk of another.
+--COMMAND END--
+--COMMAND START--
+TALK TO LONE FIGURE
+1567
+noitem
+Lone Figure
+ The Spider has given us shelter. Those blessed with life are among the chosen privileged to dwell with the gods. 
+--COMMAND END--
+--COMMAND START--
+GODS
+1567
+noitem
+Lone Figure
+ Yes, they are the Life Choosers, the Life Protectors. They feed, they watch, they decide. 
+--COMMAND END--
+--COMMAND START--
+EXAMINE CALLING BIRD
+1574
+noitem
+Calling Bird
+ A massive bird soars in the distance, its haunting call weaving a melody that tingles the senses.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHADOWY FIGURE
+1577
+noitem
+Shadowy Figure
+ Hidden within the darkness, its form barely discernible. It blends seamlessly into the world around it, an enigma lurking just out of reach.
+--COMMAND END--
+--COMMAND START--
+TALK TO SHADOWY FIGURE
+1577
+noitem
+Shadowy Figure
+ It ignores you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WORKERS
+1585
+noitem
+Workers
+ Covered in dust and lost in a trance, they move methodically, expanding this place with whatever tools they have scavenged.
+--COMMAND END--
+--COMMAND START--
+TALK TO WORKERS
+1585
+noitem
+Workers
+ They are too busy to acknowledge you.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ROBED FIGURES
+1591
+noitem
+Robed Figures
+ Draped in black robes, they appear deep in prayer, chanting in a language unknown to the outside world.
+--COMMAND END--
+--COMMAND START--
+TALK TO ROBED FIGURES
+1591
+noitem
+Robed Figures
+ Best not to interrupt them.
+--COMMAND END--
+--COMMAND START--
+EXAMINE YOUNG WOMAN
+1592
+noitem
+Young Woman
+ Clad in flowing blue garments, her long black hair cascading over her shoulders, she greets you with a warm, knowing smile.
+--COMMAND END--
+--COMMAND START--
+TALK TO YOUNG WOMAN
+1592
+noitem
+Young Woman
+ If you seek the truth, head north into the unknown realm.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD MAN
+1595
+noitem
+Old Man
+ A weary soul, trapped within a realm of darkness, his eyes searching desperately for something-anything-to eat.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD MAN
+1595
+noitem
+Old Man
+ Are you one of them? No, no, you can't be. You'd be busy eating one of those, things. Nah, just another sick mind lost to the void.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ORB
+1605
+noitem
+Orb
+ It floats before you, radiating a soft, warm glow, pulsing as if alive.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETAL REMAINS
+1607
+noitem
+Skeletal Remains
+ The weathered bones of a long-forgotten soul, scattered remnants of a life lost to time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LAMBS
+1641
+noitem
+Lambs
+ They wander peacefully, calling out to one another as they explore their surroundings.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PEOPLE
+1642
+noitem
+People
+ Lost in conversation, they carry on as if unaware of your presence.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PLANT
+1643
+noitem
+Plant
+ It shifts restlessly, as though yearning for more sunlight. A strange odor wafts from its leaves.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MONK
+1664
+noitem
+Monk
+ He works frantically, his mind clearly unhinged. He reeks of a barn and wears an old, filthy cloak.
+--COMMAND END--
+--COMMAND START--
+TALK TO MONK
+1664
+noitem
+Monk
+ He shoots you a bewildered glance, as if incredulous that you'd interrupt him. Muttering to himself, he continues without pause: -I need a pot of water...
+--COMMAND END--
+--COMMAND START--
+EXAMINE MONK
+1669
+noitem
+Monk
+ Draped in a brown robe, his body has long since turned to dust-a silent, crumbling reminder of what once was.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD WOMAN
+1680
+noitem
+Old Woman
+ She is a weary soul, left alone to fade away in this sorrowful place.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD WOMAN
+1680
+noitem
+Old Woman
+ It's nice to see another soul here. Everything around me is just a reminder of death.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHADOWS
+1684
+noitem
+Shadows
+ Dark figures flicker and twist before you, moving as if alive.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MONK
+1687
+noitem
+Monk
+ Draped in a cobweb-covered robe, the monk s remains rest here in undisturbed silence.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HUNTER
+1699
+noitem
+Hunter
+ Covered in soot and dirt, she greets you with a stony expression.
+--COMMAND END--
+--COMMAND START--
+TALK TO HUNTER
+1699
+noitem
+Hunter
+ Haven't seen many people in these parts for quite some time. The hunting's been good.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOAKED FIGURE
+1741
+noitem
+Cloaked Figure
+ An enigmatic figure draped in a dark, tattered cloak moves silently, face obscured by shadow. Their presence radiates a quiet menace, and every movement seems deliberate yet mysterious.
+--COMMAND END--
+--COMMAND START--
+TALK TO CLOAKED FIGURE
+1741
+noitem
+Cloaked Figure
+ Ah, I see an adventurer has discovered this place. You're a long way from home. If it is wisdom you seek, the Chief is the one you must speak to.
+--COMMAND END--
+--COMMAND START--
+EXAMINE VILLAGE CHIEF
+1748
+noitem
+Village Chief
+ Seated proudly upon an ornate throne, the village chief commands respect. Age lines his weathered face, wisdom gleams in his eyes, and his words carry the weight of generations.
+--COMMAND END--
+--COMMAND START--
+TALK TO VILLAGE CHIEF
+1748
+noitem
+Village Chief
+ You must be weary, fair adventurer. The world you seek was long ago erased by the hands of time. With every step forward, the past swallows what you've left behind. There is no going back-only by pressing on will you find solace. I was once like you: a tired soul wandering through forgotten lands, seeking knowledge and yearning for the treasures of the lost. But in time, I realized I wasn't searching for relics-I was running from myself. No one can tell you who you are or what you're truly seeking. That truth is yours alone to uncover. So I ask you, adventurer-how far are you willing to travel into the unknown?
+--COMMAND END--
+--COMMAND START--
+EXAMINE COACHMAN
+1749
+noitem
+Coachman
+ The weary driver sits atop an old farm wagon, reins held loosely in calloused hands. He observes his surroundings with quiet patience, accustomed to long journeys and silent contemplation.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SENTRY
+1751
+noitem
+Sentry
+ A vigilant sentry stands watchful, armor gleaming faintly despite numerous scratches and dents from past battles. His steady gaze pierces through you, alert and unwavering.
+--COMMAND END--
+--COMMAND START--
+TALK TO SENTRY
+1751
+noitem
+Sentry
+ Move along.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WEARY OLD SOUL
+1762
+noitem
+Weary Old Soul
+ An aged figure stands hunched and weary, eyes distant and clouded by countless years. They carry the burden of unspoken sorrows, worn down by a world that offers little respite.
+--COMMAND END--
