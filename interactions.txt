@@ -1,4 +1,4 @@
-801
+868
 --COMMAND START--
 EXAMINE LANTERN
 -1
@@ -1019,7 +1019,7 @@ EXAMINE TAVERN SIGN
 448
 noitem
 Tavern Sign
- A hand-carved wooden sign creaks gently in the breeze. Painted upon it is the image of a proud owl, its sharp eyes seemingly watching all who pass. Beneath the bird, the words -The Wise Owl Tavern- are etched with care, though the paint has begun to fade with age.
+ A hand-carved wooden sign creaks gently in the breeze. Painted upon it is the image of a proud owl, its sharp eyes seemingly watching all who pass. Beneath the bird, the words,The Wise Owl Tavern- are etched with care, though the paint has begun to fade with age.
 --COMMAND END--
 --COMMAND START--
 EXAMINE WELL
@@ -1460,7 +1460,7 @@ READ WRITINGS
 852
 noitem
 Writings
- The only part you can decipher is a single, chilling warning: -Keep out.-
+ The only part you can decipher is a single, chilling warning:,Keep out.-
 --COMMAND END--
 --COMMAND START--
 EXAMINE STATUE
@@ -2497,6 +2497,13 @@ EXAMINE STONE SARCOPHAGI
 noitem
 Stone Sarcophagi
  A row of stone sarcophagi stands solemnly in the shadows, their cold surfaces etched with faded runes. Silent guardians of secrets long buried, they exude an aura of reverence and dread.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ARCHWAY
+2024
+noitem
+Archway
+ The stone archway pulses with flickering light, casting strange shadows across your path. A cold chill follows, along with the howling wind. Do you dare enter?
 --COMMAND END--
 --COMMAND START--
 EXAMINE KINGS GUARD
@@ -5254,7 +5261,7 @@ TALK TO ELDER
 1502
 noitem
 Elder
- This place is steeped in unrest, -she murmurs-. The spirits cry out for peace, and I must listen... I must speak to them and guide them to rest.
+ This place is steeped in unrest,,she murmurs-. The spirits cry out for peace, and I must listen... I must speak to them and guide them to rest.
 --COMMAND END--
 --COMMAND START--
 EXAMINE PALADIN
@@ -5499,7 +5506,7 @@ TALK TO MONK
 1664
 noitem
 Monk
- He shoots you a bewildered glance, as if incredulous that you'd interrupt him. Muttering to himself, he continues without pause: -I need a pot of water...
+ He shoots you a bewildered glance, as if incredulous that you'd interrupt him. Muttering to himself, he continues without pause:,I need a pot of water...
 --COMMAND END--
 --COMMAND START--
 EXAMINE MONK
@@ -5605,4 +5612,466 @@ EXAMINE WEARY OLD SOUL
 noitem
 Weary Old Soul
  An aged figure stands hunched and weary, eyes distant and clouded by countless years. They carry the burden of unspoken sorrows, worn down by a world that offers little respite.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HUNCHED FIGURE
+1941
+noitem
+Hunched Figure
+ Dressed in rags and hidden from the village outside, this cursed creature ensures the clock continues to run.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SHADOW CLAW
+1947
+noitem
+Shadow Claw
+ The twisted body of a tormented soul limps through this place, seemingly lost in another world.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PILLAR WATCHER
+1945
+noitem
+Watcher Behind the Pillar
+ It stands perfectly still-almost like a statue, unmoved and unblinking.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FIGURE
+1951
+noitem
+Figure
+ Lost within the moving gears, it resembles an automaton trapped in its own world.
+--COMMAND END--
+--COMMAND START--
+EXAMINE EMACIATED TURNERS
+1965
+noitem
+Emaciated Gear Turners
+ They swarm around the gears, turning them by hand to ensure they continue to function flawlessly.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BENT SOULS
+1966
+noitem
+Bent Souls
+ These are the damned-souls lost to the relentless passage of time.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FACELESS WORKER
+1967
+noitem
+Faceless Worker
+ With a mallet in hand, it hammers away, repairing gears on the verge of collapse.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SKELETAL FIGURES
+1969
+noitem
+Skeletal Figures
+ The reanimated bones of the dead-eternal slaves forged by dark power-work endlessly in the forges.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CHAINED FIGURE
+1971
+noitem
+Figure on Chain
+ A lost soul shackled by rusted chains, dressed in rags and left to die as punishment.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HOODED FORMS
+1974
+noitem
+Hooded Forms 
+ Strange beings hidden away from the realm of the living, they toll away, never resting, never eating.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HUNCHBACKED BEAST
+1975
+noitem
+Hunchbacked Beast
+ A foul creature, its body grotesquely twisted and malformed by unknown forces.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BELL BEARER
+1977
+noitem
+Bell Bearer
+ Their bodies are bound, faces wrapped in bloodstained bandages, as they carry ancient iron bells upon their backs.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WATCHER
+1978
+noitem
+Watcher
+ Once a person, now something else entirely. Its eyes glisten in the glow of your lantern.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TORTURED SOUL
+1982
+noitem
+Tortured Soul
+ Abandoned to this place, it wanders endlessly, unlike the others who are bound as prisoners.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CHAINED SOULS
+1984
+noitem
+Chained Souls
+ They roam aimlessly, with flesh and bone exposed to the damp, rotting air. The stench of death clings to them.
+--COMMAND END--
+--COMMAND START--
+EXAMINE HUSK
+1988
+noitem
+Husk
+ A tired and withered body drifts through this place, as if locked in a trance.
+--COMMAND END--
+--COMMAND START--
+EXAMINE BOUND SOUL
+1989
+noitem
+Bound Soul
+ Slipping in and out of sight, its face is carved with the mark of terror.
+--COMMAND END--
+--COMMAND START--
+EXAMINE SCAVENGERS
+1990
+noitem
+Scavengers
+ They scurry about in the dark, searching for anything they can melt down and remake into gears.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CLOCKWORK WORKERS
+1994
+noitem
+Clockwork Workers
+ They tend to the churning machinery, ensuring the mechanisms never stop.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MECHANIC
+1998
+noitem
+Mechanic
+ A weary soul, worn thin by endless tasks demanded by this unholy place.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WHISPERING ENTITY
+1999
+noitem
+Whispering Entity
+ The transparent figure drifts aimlessly, whispering the name of a loved one long since lost.
+--COMMAND END--
+--COMMAND START--
+EXAMINE TIMEKEEPER
+2001
+noitem
+Swaying Timekeeper
+ It clutches a broken pocket watch in its gnarled hand-its purpose, and its torment, known only to itself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GRAND CARETAKER
+2021
+noitem
+Grand Caretaker
+ He is an old soul, his body long since fallen into disrepair. With sunken eyes and thin, straggled hair, he resembles a ghoul more than a man.
+--COMMAND END--
+--COMMAND START--
+TALK TO GRAND CARETAKER
+2021
+noitem
+Grand Caretaker
+ If it isn't Drakhan... You've become quite the talking point among the twisted freaks below. Yet here you are, wasting what little time you have left. The eyes of fate have already seen the outcome.
+--COMMAND END--
+--COMMAND START--
+EXAMINE PRIEST
+2040
+noitem
+Priest
+A tired old soul, whose flock has dwindled down that he can barely keep this place warm during these trying times.
+--COMMAND END--
+--COMMAND START--
+TALK TO PRIEST
+2040
+noitem
+Priest
+An outsider, well it appears that I am blessed to have you enter our Lord's home. It's been quite sometime since we've had an adventurer within these parts. Not many left of us now since LORD VAERETH opened the mine.
+--COMMAND END--
+--COMMAND START--
+LORD VAERETH
+2040
+noitem
+Lord Vaereth
+You wish to know of Lord Vaereth? He was once a protector...not just of this village, but of the mountain itself. A man of honor. Of will. When the mines below began to whisper, it was Vaereth who descended. Alone. No blade drawn. Just faith and fire in his heart. But the Hollow Vein does not give back what it takes. He returned eventually. Changed. Cold. His eyes no longer saw us-they saw through us. He speaks to no one but listens to everything. They say his soul is shackled to something far below. Something older than the mine, older than the mountain. He governs north of here, in his manor.
+--COMMAND END--
+--COMMAND START--
+EXAMINE LORD VAERETH
+2052
+noitem
+Lord Vaereth
+He sits upon his throne, his face buried in his hands-lost in disbelief over all that he once governed, now nearly gone.
+--COMMAND END--
+--COMMAND START--
+TALK TO LORD VAERETH
+2052
+noitem
+Lord Vaereth
+Fair adventurer, welcome to what was once my lively village... that is, until that damned mine opened.
+--COMMAND END--
+--COMMAND START--
+MINE
+2052
+noitem
+Lord Vaereth
+Yes, the new ore mine. A new branch was dug out, and they must've disturbed a nest of some kind. Now my workers are missing-probably dead-and I'm losing coin by the day. Go out there and find out what's happened, would you? Now go-before the families come barging in.
+--COMMAND END--
+--COMMAND START--
+QUEEN HAS BEEN SLAYED
+2052
+noitem
+Lord Vaereth
+Really? That's brilliant. I'll speak to the others and have a full crew here by week's end. Thank you, Adventurer.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINER
+2078
+noitem
+Miner
+A gaunt figure stands half-submerged in shadow. His face is smeared with coal dust, his eyes sunken like twin pits. The light of your lantern dances across his expression-there's something broken in him, something that stares beyond the living world.
+--COMMAND END--
+--COMMAND START--
+TALK TO MINER
+2078
+noitem
+Miner
+We dug too deep. Past the stone, past the ore...into something else. Something breathing. We thought it was just Earth. It wasn't. She sleeps beneath us. Her children roam. The Matron... she tends to her young. She sings when she lays her eggs. It's a lullaby for the damned. You'll hear it soon.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINER
+2084
+noitem
+Miner
+A miner is webbed to the wall, his limbs stretched and pinned like an insect in a collector's frame. His mouth opens, dry and cracked, and yet he speaks-not to you, but to something in the dark.
+--COMMAND END--
+--COMMAND START--
+TALK TO MINER
+2084
+noitem
+Miner
+Not long now. I saw her face in the web...she spoke in my mind...She has a thousand eyes and no mercy. I called her beautiful. She gave me silence in return. I've already been chosen. She's just waiting for the others to hatch.
+--COMMAND END--
+--COMMAND START--
+EXAMINE CARVINGS
+2105
+noitem
+Carvings
+Grotesque figures etched into the stone depict monsters feasting upon the innocent in what appears to be a ritualistic ceremony.
+--COMMAND END--
+--COMMAND START--
+LAST WORDS
+2108
+noitem
+Last Words
+I offer myself beneath the full moon of the goddess Sythe. I await the warmth of your touch, for I am...life.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WEBBING
+2118
+noitem
+Webbing
+The walls are crafted from thick, pulsing webbing. You dare not touch it-it almost seems to breathe.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINER
+2122
+noitem
+Miner
+He looks exhausted and on the brink of collapse, but as he sees you, his face lights up. Without a word, he throws his arms around you in a desperate embrace.
+--COMMAND END--
+--COMMAND START--
+TALK TO MINER
+2122
+noitem
+Miner
+"Another one for the GREAT QUEEN," he whispers. "The hands of fate have brought you to me."
+--COMMAND END--
+--COMMAND START--
+GREAT QUEEN
+2122
+noitem
+Miner
+"She feasts upon the sick and the dying...and carries them to the stars. You-yes, you-will make a perfect offering."
+--COMMAND END--
+--COMMAND START--
+EXAMINE COCOONS
+2131
+noitem
+Cocoons
+These swollen sacks reek of death. Every so often, one shudders, as if something inside is still trying to get out.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ICE SPIDER
+2134
+noitem
+Ice Spider
+Pale as snow, with limbs like blades and glowing red eyes. This towering creature lets out a shriek and begins to charge toward you.
+--COMMAND END--
+--COMMAND START--
+USE SWORD
+2134
+noitem
+Ice Spider
+You swing with all your strength, striking the spider across its monstrous eyes. It reels back, thrashing blindly-until at last, death claims it.
+--COMMAND END--
+--COMMAND START--
+EXAMINE OLD WOMAN
+2137
+noitem
+Old Woman
+She is a tired, withered soul. Her eyes are pale and lifeless, and she mutters in a long-forgotten tongue.
+--COMMAND END--
+--COMMAND START--
+TALK TO OLD WOMAN
+2137
+noitem
+Old Woman
+She doesn't respond. Instead, she begins to whimper softly and cry.
+--COMMAND END--
+--COMMAND START--
+EXAMINE MINER
+2146
+noitem
+Miner
+He sits alone at a small table lit by a single candle. He eats quickly, as if afraid you might take his food.
+--COMMAND END--
+--COMMAND START--
+TALK TO MINER
+2146
+noitem
+Miner
+Go away. You're going to bring them back. And then I'll have to kill them. Just go.
+--COMMAND END--
+--COMMAND START--
+WRITINGS
+2148
+noitem
+Writings
+Where are the Bringers of Light? Where are those who promised us life? We are all doomed.
+--COMMAND END--
+--COMMAND START--
+EXAMINE ICE SPIDER QUEEN
+2160
+noitem
+Ice Spider Queen
+The massive corpse of this diseased creature lies still, slain by a warrior's hand. Its red eyes stare blankly into the void. You breathe a sigh of relief, thankful the battle wasn't yours to fight.
+--COMMAND END--
+--COMMAND START--
+EXAMINE THARREK
+2161
+noitem
+Tharrek
+He wears makeshift armor, stitched together from scavenged leather and scrap. A bloodied sword rests in his hand. He looks upon you with calm gratitude, at last, he won't die alone in this forsaken place.
+--COMMAND END--
+--COMMAND START--
+TALK TO THARREK
+2161
+noitem
+Tharrek
+I don't believe my eyes. A rescuer? Has the LORD sent you? He must have... I knew he would wonder what became of me.
+--COMMAND END--
+--COMMAND START--
+LORD
+2161
+noitem
+Tharrek
+Tell him the Queen has been slain. The cult is no more. Glory has returned to this land.
+--COMMAND END--
+--COMMAND START--
+EXAMINE FROGMAN
+2177
+noitem
+Frogman
+It stands hunched and twitching, its bloated torso sagging beneath torn folds of flesh. Sickly yellow eyes blink slowly, unblinking, watching, and for a moment, you feel yourself drawn in, as if trapped in a dream you were never meant to wake from.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GRAVESTONE
+2183
+noitem
+Gravestone
+A freshly cut slab of stone juts from the earth, its surface smooth, its edges sharp. There's something heartbreakingly final about it, a quiet reminder that every path, no matter how brave, ends in stillness.
+--COMMAND END--
+--COMMAND START--
+READ GRAVESTONE
+2183
+noitem
+Gravestone
+Here lies Thoren Deylan., He walked too far into the moonlight. They say his lantern never went out. Buried with silence, remembered in song.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WIDOW
+2184
+noitem
+Widow
+She stands in quiet mourning, her face veiled in black. In her arms she clutches an old shirt, worn, faded, and folded tight to her chest, the last remnant of the man she once held dear.
+--COMMAND END--
+--COMMAND START--
+TALK TO WIDOW
+2184
+noitem
+Widow
+I don't know how to go on without my Thoren. He was kind...gentle. He only went out for a walk, just a short one. That is...until she found him. That damned WITCH. She did this.
+--COMMAND END--
+--COMMAND START--
+WITCH
+2184
+noitem
+Widow
+She lives east of here, alone on a rotting farm. Cursed, twisted, touched by something foul. You'll find her there, if you're brave enough. May the stars curse her name.
+--COMMAND END--
+--COMMAND START--
+EXAMINE GOAT
+2203
+noitem
+Goat
+The remains of this poor animal lie twisted and lifeless, its blood drawn in ritual by the hand of the horrid witch.
+--COMMAND END--
+--COMMAND START--
+EXAMINE WITCH
+2204
+noitem
+Witch
+A twisted old soul cloaked in black. Her face is hidden beneath shadow, but her eyes, pale and unmoving, pierce through the veil.
+--COMMAND END--
+--COMMAND START--
+TALK TO WITCH
+2204
+noitem
+Witch
+What can I do for you, adventurer? I had a feeling you'd be arriving soon. Did that WIDOW send you? I told her, and now I'll tell you: I had **nothing** to do with it.
+--COMMAND END--
+--COMMAND START--
+WIDOW
+2204
+noitem
+Witch
+The widow of that fool husband of hers...He wandered off at dusk, when the WEREWOLVES are searching for food. What did she expect would happen?
+--COMMAND END--
+--COMMAND START--
+WEREWOLVES
+2204
+noitem
+Witch
+Yes, they've been spotted past the village. Whispers claim one is the child of noble blood...And if that's true, the curse runs deeper than you think.
+--COMMAND END--
+--COMMAND START--
+THOREN DEYLAN
+2204
+noitem
+Witch
+Thoren? A drunken fool. I was out picking mushrooms when I saw him, stumbling about, singing to himself. I tried to warn him, truly I did, but he wouldn't listen. Next thing I know, he's torn to shreds. You don't believe me? Go see for yourself.
+--COMMAND END--
+--COMMAND START--
+EXAMINE DOOR
+2205
+noitem
+Door
+Stained with what may be blood, this door has been crudely nailed shut. You press your ear against the wood, but hear nothing. No breathing. No movement. Just silence.
 --COMMAND END--

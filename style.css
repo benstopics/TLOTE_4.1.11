@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: #00ff00;
+    font-family: monospace;
+    padding: 1rem;
+    max-width: 600px;;
+}
+
+#log {
+    white-space: pre-wrap;
+    overflow-y: auto;
+    max-height: 80vh;
+    margin-bottom: 1rem;
+}
+
+#input {
+    width: 100%;
+    font-family: monospace;
+    font-size: 1rem;
+    padding: 0.5rem;
+    background-color: #111;
+    color: #00ff00;
+    border: 1px solid #333;
+}
+
+#controls {
+    width: 400px;
+    margin: 0 auto;
+}
+
+button {
+    border: 1px solid #00ff00;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00ff00;
+    color: black;
+}
